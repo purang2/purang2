@@ -1,4 +1,12 @@
 
+
+### Hi I'm Eunchan Lee
+
+- Kyungpook National University, Electronics Graduate Student
+- I'm on a [KNU Brain-AI Lab Team](https://github.com/KNU-BrainAI)
+- E-mail : eunchan789@gmail.com
+
+
 ### Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2)](https://github.com/anuraghazra/github-readme-stats)
