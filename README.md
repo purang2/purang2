@@ -4,7 +4,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### BOJ Stats (acmicpc.net)
+### BOJ Stats [LINK](acmicpc.net)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purang2)](https://solved.ac/purang2)
 
