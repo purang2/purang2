@@ -3,7 +3,7 @@
 ### Hi I'm Eunchan Lee
 
 - Kyungpook National University, Electronics Graduate Student
-- I'm on a @KNU-BrainAI Team!
+- I'm on a [@KNU-BrainAI](https://github.com/KNU-BrainAI) Team!
 - E-mail : eunchan789@gmail.com
 
 
