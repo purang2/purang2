@@ -5,6 +5,7 @@
 
 - Kyungpook National University, Electronics Student
 - I'm on a [@KNU-BrainAI](https://github.com/KNU-BrainAI) Team!
+- **Email:** purang2@nate.com
 
 
 ### Github Stats
