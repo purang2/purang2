@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-## BOJ Statistics (acmicpc.net)
+### BOJ Stats (acmicpc.net)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purang2)](https://solved.ac/purang2)
 
