@@ -18,7 +18,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunchan789@gmail.com)](mailto:eunchan789@gmail.com)
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/purang2)](https://www.facebook.com/purang2)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003388221714)](https://www.facebook.com/profile.php?id=100003388221714)
 	
 
 <!--
