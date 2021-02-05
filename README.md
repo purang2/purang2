@@ -4,7 +4,7 @@
 ### Hi I'm Eunchan Lee 🤗
 
 - Kyungpook National University, Electronics Student
-- I'm on a [@KNU-BrainAI](https://github.com/KNU-BrainAI) Team!
+- I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)!
 - **Email:** purang2@nate.com
 
 
