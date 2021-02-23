@@ -12,6 +12,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### BOJ Stats [LINK](https://www.acmicpc.net/ranklist/university)
 [![Solved.ac
