@@ -3,7 +3,7 @@
 
 ### Hi I'm Eunchan Lee 🤗
 
-- [Kyungpook National University, Electronics Student(Newbee MS)](http://see.knu.ac.kr/)
+- Kyungpook National University([Link](http://see.knu.ac.kr/)), Electronics Student(Newbee MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)!
 - **Email:** purang2@nate.com
 
