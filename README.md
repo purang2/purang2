@@ -2,7 +2,7 @@
 
 
 ### Hi I'm Eunchan Lee 🤗
-- 🌱 I’m currently learning NLP, Language Translation
+- 🌱 I’m currently learning Natural Language Processing, Deep Learning, Brain-cognition Engineering
 - Kyungpook National University([Link](http://see.knu.ac.kr/)), Electronics Student(Newbie MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)!
 - **Email:** purang2@nate.com
