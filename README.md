@@ -7,7 +7,7 @@
 - **Email:** purang2@nate.com
 
 ### 🌱 I’m currently learning 
-- Natural Language Processing based on Deep Neural Network
+- Natural Language Processing(NLP) based on Deep Neural Network
 - Brain-cognition Engineering
 
 ### Github Stats
