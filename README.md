@@ -19,7 +19,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purang2)](https://solved.ac/purang2)
 
-### I'm crushing on Ryan
+### I'm crushing on this bear, Ryan🤭
 
 <img src="MU RYAN.jpg" width="18%" height="18%">
 
