@@ -1,6 +1,8 @@
 
 
 
+
+<img src="MU RYAN.jpg">
 ### Hi I'm Eunchan Lee 🤗
 - Kyungpook National University([Link](http://see.knu.ac.kr/)), Electronics Student(Newbie MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)!
