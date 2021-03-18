@@ -2,7 +2,7 @@
 
 
 
-<img src="MU RYAN.jpg" width="8%" height="8%">
+<img src="MU RYAN.jpg" width="18%" height="18%">
 
 ### Hi I'm Eunchan Lee 🤗
 - Kyungpook National University([Link](http://see.knu.ac.kr/)), Electronics Student(Newbie MS)
