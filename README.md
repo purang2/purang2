@@ -1,9 +1,5 @@
 
 
-
-
-<img src="MU RYAN.jpg" width="18%" height="18%">
-
 ### Hi I'm Eunchan Lee 🤗
 - Kyungpook National University([Link](http://see.knu.ac.kr/)), Electronics Student(Newbie MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)!
@@ -22,6 +18,10 @@
 ### BOJ Stats [LINK](https://www.acmicpc.net/ranklist/university)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purang2)](https://solved.ac/purang2)
+
+### I'm crushing on Ryan
+
+<img src="MU RYAN.jpg" width="18%" height="18%">
 
 
 ### Hits
