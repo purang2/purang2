@@ -1,6 +1,6 @@
 
 
-### Hi I'm Eunchan Lee 🤗
+### 🤗 Hi I'm Eunchan Lee 
 - Kyungpook National University, School of Electronic Engineering([KNUSEE](https://see.knu.ac.kr)) Student(Newbie MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)!
 - **Email:** purang2@nate.com
