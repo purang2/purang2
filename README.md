@@ -8,7 +8,7 @@
 ### 🌱 I’m currently learning 
 - Natural Language Processing(NLP) based on Deep Neural Network
 - Brain cognitive Engineering
-- Deep Learning based Intelligence System
+- Deep Learning based Intelligent Systems Design
 
 ### Github Stats
 
