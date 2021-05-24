@@ -7,7 +7,7 @@
 
 ### 🌱 I’m currently learning 
 - Natural Language Processing(NLP) based on Deep Neural Network
-- Brain cognitive Engineering
+- Brain cognitive Engineering : 🙄How can our brain accurately recognize a voice?
 - Deep Learning based Intelligent Systems Design
 
 ### Github Stats
