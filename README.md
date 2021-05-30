@@ -14,6 +14,9 @@
 - Algorithm Master!! : Competitions[Samsung,Kakao]
 - English Speech
 - Data Processing with ML,DL : 🐱‍👤Kaggle [Study everyday!]
+- Research
+   - What should be my Main Subject?
+   - NLP? 
 
 
 ### Github Stats
