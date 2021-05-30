@@ -10,6 +10,12 @@
 - Brain cognitive Engineering : 🙄How can our brain accurately recognize a voice?
 - Deep Learning based Intelligent Systems Design
 
+### 🏆🙏🏻 My Goal [2021] 
+- Algorithm Master!! : Competitions[Samsung,Kakao]
+- English Speech
+- Data Analysis with ML,DL : Kaggle! Study everyday!
+
+
 ### Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
