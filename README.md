@@ -14,6 +14,7 @@
 - Algorithm Master!! 
    - Competitions[Samsung,Kakao]  
 - English Speech  
+   - I'm planning to make a **ENG Study Group**
 - Data Processing with ML,DL  
    - 🐱‍👤Kaggle [Study everyday!]  
 - Research
