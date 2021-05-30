@@ -11,9 +11,11 @@
 - Deep Learning based Intelligent Systems Design
 
 ### 🏆🙏🏻 My Goal [2021 S/S] 
-- Algorithm Master!! : Competitions[Samsung,Kakao]
-- English Speech
-- Data Processing with ML,DL : 🐱‍👤Kaggle [Study everyday!]
+- Algorithm Master!! 
+   - Competitions[Samsung,Kakao]  
+- English Speech  
+- Data Processing with ML,DL  
+   - 🐱‍👤Kaggle [Study everyday!]  
 - Research
    - What should be my Main Subject?
    - NLP? 
