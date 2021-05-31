@@ -13,7 +13,7 @@
 ### 🏆🙏🏻 My Goal [2021 S/S] 
 - Algorithm Master!! 
    - Competitions[Samsung,Kakao]  
-- English Speech  
+- Conversation in English  
    - I'm planning to make a **ENG Study Group**
 - Data Processing with ML,DL  
    - 🐱‍👤Kaggle [Study everyday!]  
