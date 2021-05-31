@@ -13,9 +13,9 @@
 ### 🏆🙏🏻 My Goal [2021 S/S] 
 - Algorithm Master!! 
    - Competitions[Samsung,Kakao]  
-- Building a well English conversation skill! 
+- Building a well English conversation skill!  
    - I'm planning to make a **ENG Study Group**
-- Data Processing with ML,DL  
+- Becoming more skillful in data processing like ML/DL/NLP  
    - 🐱‍👤Kaggle [Study everyday!]  
 - Research
    - What should be my Main Subject?
