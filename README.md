@@ -10,6 +10,8 @@
 - Brain cognitive Engineering : 🙄How can our brain accurately recognize a voice?
 - Deep Learning based Intelligent Systems Design
 
+
+<!--
 ### 🏆🙏🏻 My Goal [2021 S/S] 
 - Algorithm Master!! 
    - Competitions[Samsung,Kakao]  
@@ -20,7 +22,7 @@
 - Research
    - What should be my Main Subject?
    - NLP? 
-
+-->
 
 ### Github Stats
 
