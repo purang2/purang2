@@ -1,6 +1,7 @@
 
 
 ### 🤗 Hi I'm Eunchan Lee 
+- 딥러닝 기반 데이터 분석과 자연어 처리에 관심이 많은 대학원생입니다.
 - Kyungpook National University, School of Electronic Engineering([KNUSEE](https://see.knu.ac.kr)) Student(Newbie MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 - **Email:** purang2@nate.com
