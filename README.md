@@ -6,14 +6,13 @@
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 - **Email:** purang2@knu.ac.kr
 
-<!--
 ### 🌱 I’m currently learning 
-- Natural Language Processing(NLP) based on Deep Neural Network
-- Brain cognitive Engineering : 🙄How can our brain accurately recognize a voice?
-- Deep Learning based Intelligent Systems Design
+- Natural Language Processing(NLP) 
+- Text Classification
+- Text Generation such as Summarization, Translation
 
 
-
+<!--
 ### 🏆🙏🏻 My Goal [2021 S/S] 
 - Algorithm Master!! 
    - Competitions[Samsung,Kakao]  
