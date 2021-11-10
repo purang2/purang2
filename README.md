@@ -1,7 +1,7 @@
 
 
 ### 🤗 Hi I'm Eunchan Lee 
-- I'm a graduate student who is interested in Deep-learning based data analysis and Natural Language Processing(NLP).
+- I'm a graduate student who is interested in Deep Learning based data analysis and Natural Language Processing(NLP).
 - **Kyungpook National University**, School of Electronic Engineering([KNUSEE](https://see.knu.ac.kr)) Student(Newbie MS)
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 - **Email:** purang2@knu.ac.kr
