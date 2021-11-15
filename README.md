@@ -11,6 +11,9 @@
 - Text Classification
 - Text Generation such as Summarization, Translation
 
+일단 열심히 하면 되는 환경을 만드는 데에 집중하자. Github를 통한 searching codes, reading papers, studying with courseworks, participating competitions,lab-meeting,journal-club, study-group, conferences 등이 좋은 예시이다. 
+
+그 후 여유로운 시기에 몰아치자. 
 
 <!--
 ### 🏆🙏🏻 My Goal [2021 S/S] 
