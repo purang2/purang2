@@ -16,7 +16,7 @@
 
 searching codes with Github,implementing with codes, reading papers, studying with courseworks, participating competitions,lab-meeting,journal-club, study-group, conferences, adapting routines 등이 좋은 예시이다. 
 
-그 후 여유로운 시기가 되면 몰아치듯 목표를 달성하는 것을 목표로 두자. 
+그 후 여유로운 시기가 찾아오면 몰아치듯 모든 목표를 달성하는 것을 목표로 두자. 
 
 <!--
 ### 🏆🙏🏻 My Goal [2021 S/S] 
