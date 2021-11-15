@@ -16,8 +16,9 @@
 
 searching codes with Github,implementing with codes, reading papers, studying with courseworks, participating competitions,lab-meeting,journal-club, study-group, conferences, adapting routines 등이 좋은 예시이다. 
 
-그 후 여유로운 시기가 찾아오면 몰아치듯 모든 목표를 달성하는 것을 목표로 두자. 
+그 후 여유로운 시기가 찾아오면 몰아치듯 모든 목표를 달성하는 것을 석사 과정의 최종 목표로 두자. 
 
+그 누가 뭐라고 하든지  즐기는 것이 가장 중요할 것 같다.
 <!--
 ### 🏆🙏🏻 My Goal [2021 S/S] 
 - Algorithm Master!! 
