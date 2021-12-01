@@ -11,10 +11,11 @@
 - Text Classification
 - Text Generation such as Summarization, Translation
 
+<!--
+
 ![youngha](https://user-images.githubusercontent.com/46081500/143519557-e28dc601-3991-4487-9f50-6b3e532934a4.png)
 
 
-<!--
 ### 🏆🙏🏻 My Goal 
 
 일단 열심히 하면 되는 환경을 만드는 데에 집중하자. 
