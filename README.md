@@ -1,14 +1,12 @@
 
+### 🤗 Hi I'm purang2
+- I'm a graduate student who is interested in Deep Learning based Data Analysis and Natural Language Processing(NLP).
+- I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### 🤗 Hi I'm purang2
-- I'm a graduate student who is interested in Deep Learning based Data Analysis and Natural Language Processing(NLP).
-- I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 
 <!--
