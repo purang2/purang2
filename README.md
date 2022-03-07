@@ -1,6 +1,6 @@
 
 ### 🤗 Hi I'm purang2
-- I'm a graduate student who is interested in Deep Learning based Data Analysis and Natural Language Processing(NLP).
+- I'm a graduate student who is interested in Natural Language Processing(NLP) and Deep Learning.
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 
