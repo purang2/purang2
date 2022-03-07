@@ -1,22 +1,10 @@
 
-
 ### 🤗 Hi I'm purang2
 - I'm a graduate student who is interested in Deep Learning based Data Analysis and Natural Language Processing(NLP).
-- **Kyungpook National University**, School of Electronic Engineering([KNUSEE](https://see.knu.ac.kr)) Student
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
-- **Email:** purang2@knu.ac.kr
 
-### 🌱 I’m currently learning 
-- Multi-lingual and Cross-lingual based Langauge Modeling
-- Text Generation such as Summarization, Translation
-### Goal
-- Knowing  
-- Thinking  
-- Writing  
-- 
 
-### ⚡ Pronouns: 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
