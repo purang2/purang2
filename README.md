@@ -1,8 +1,11 @@
 
 ### 🤗 Hi I'm purang2
-- I'm a newbie graduate student who is interested in Natural Language Processing(NLP) and Deep Learning.
+- Research Interests: Deep Learning for Natural Language Processing, Multi-lingual Representation Learning 
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
+### 🎯 Research Interests
+- Deep Learning for Natural Language Processing
+- Multi-lingual Representation Learning 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
