@@ -1,6 +1,6 @@
 
 ### 🤗 Hi I'm purang2
-- Research Interests: Deep Learning for Natural Language Processing, Multi-lingual Representation Learning 
+- Research Interests: Deep Learning for Natural Language Processing, Programming 
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 ### 🎯 Research Interests
