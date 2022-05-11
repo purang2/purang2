@@ -51,10 +51,10 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 
 ### BOJ [link](https://www.acmicpc.net/ranklist/university)
 -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purang2)](https://solved.ac/purang2)
 <!--
 ### I'm crushing on this bear, Ryan🤭
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purang2)](https://solved.ac/purang2)
 
 <img src="MU RYAN.jpg" width="18%" height="18%">
 
