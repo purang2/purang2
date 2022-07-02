@@ -4,9 +4,9 @@
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 ### 🍎 Research Interests
-- Deep learning for Natural Language Processing(NLP)
-- Korean NLP 
-- Programming language based on NLP
+- Machine Learning & Natural Language Processing(NLP)
+- NLP for Korean
+- NLP for Programming Language
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
