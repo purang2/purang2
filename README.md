@@ -1,12 +1,9 @@
 
 ### 🤭 Hi I'm purang2
-- You can follow my account if you interest my research topics or projects!
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 ### 🍎 Research Interests
 - Machine Learning & Natural Language Processing(NLP)
-- NLP for Korean
-- NLP for Programming Language
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
