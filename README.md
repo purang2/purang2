@@ -58,7 +58,8 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 
 ### Hits
 -->
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=안녕하세요!&fontSize=폰트크기)
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Hello%20World!&fontSize=32)
 
 
 [![Solved.ac
