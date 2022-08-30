@@ -43,7 +43,7 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### BOJ [link](https://www.acmicpc.net/ranklist/university)
@@ -57,9 +57,14 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 
 
 ### Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
+![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=안녕하세요!&fontSize=폰트크기)
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=purang2)](https://solved.ac/purang2)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 
 <!--
