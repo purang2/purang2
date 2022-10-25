@@ -5,6 +5,13 @@
 ### 🍎 Research Interests
 - Machine Learning & Natural Language Processing(NLP)
 
+### Affiliations
+
+- Kyungpook National University, [@KNU Brain-AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Department of Electronics Engineering, M.S. (2021.3 ~ 2023.2) 
+
+- Kyungpook National University, Department of Electronics Engineering, B.S. (2015 ~ 2021.2) 
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
