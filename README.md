@@ -3,8 +3,9 @@
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 ### 🍎 Research Interests
-- Machine Learning & Natural Language Processing(NLP)
-
+- Machine Learning 
+- Natural Language Processing(NLP) 
+- Natural Language Generation(NLG) 
 ### Affiliations
 
 - Kyungpook National University, [@KNU Brain-AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Department of Electronics Engineering, M.S. (경북대학교 대학원 전자전기공학부) (2021.3 ~ 2023.2) 
