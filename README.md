@@ -9,7 +9,7 @@
 
 ### Affiliations
 
-- Kyungpook National University, [@KNU Brain-AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Department of Electronics Engineering, M.S. (2021.3 ~ 2023.2) 
+- Kyungpook National University, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (2021.3 ~ ) 
 - Kyungpook National University, Department of Electronics Engineering, B.S. (2015 ~ 2021.2) 
 
 
