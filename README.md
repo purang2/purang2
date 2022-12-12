@@ -1,5 +1,5 @@
 
-### 🤭 Hi I'm purang2
+## 🤭 Hi I'm purang2
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 ### 🍎 Research Interests
@@ -12,10 +12,10 @@
 - ***Natural Language Generation (NLG)***
 - ***Machine Learning***
 
-### Affiliations
+### 👨‍🎓Educations
 
-- Kyungpook National University, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (2021.3 ~ ) 
-- Kyungpook National University, Department of Electronics Engineering, B.S. (2015 ~ 2021.2) 
+- ***Kyungpook National University, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (2021.3 ~ 2023.2)*** 
+- ***Kyungpook National University, Department of Electronics Engineering, B.S. (2015 ~ 2021.2)***
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
