@@ -13,6 +13,7 @@
 
 **2021**
 - ***Natural Language Processing (NLP), for Korean Tasks*** 
+- ***NLP Using Pretrained Language Models, such as BERT, GPT, ELECTRA and KoBERT, KoELECTRA*** 
 - ***Deep Learning***
 
 ### 👨‍🎓Educations
