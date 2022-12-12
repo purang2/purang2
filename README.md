@@ -3,9 +3,14 @@
 - I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 ### 🍎 Research Interests
-- Natural Language Processing (NLP) 
-- Natural Language Generation (NLG) 
-- Machine Learning 
+**2023**
+- ***Text Generation & Evaluation***
+- ***Prompt-based Few-shot Learning***
+
+**2021 ~ 2022**
+- ***Natural Language Processing (NLP) in Korean*** 
+- ***Natural Language Generation (NLG)***
+- ***Machine Learning***
 
 ### Affiliations
 
