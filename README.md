@@ -1,6 +1,6 @@
 
 ## 🤭 Hi I'm purang2
-- I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)
+- ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
 
 ### 🍎 Research Interests
 **2023**
