@@ -6,6 +6,7 @@
 **2023**
 - ***Text Generation & Evaluation***
 - ***Prompt-based Few-shot Learning***
+- ***Dataset, NLP Data Management***
 
 **2022**
 - ***Natural Language Generation (NLG), with NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
