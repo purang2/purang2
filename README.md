@@ -2,7 +2,12 @@
 ## 🤭 Hi I'm purang2
 - ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
 
-### 🍎 Research Interests
+
+
+
+<br>
+<h3 align='center'>🍎 Research Interests </h3>
+
 **2023**
 - ***Text Generation & Evaluation***
 - ***Prompt-based Few-shot Learning***
@@ -17,13 +22,20 @@
 - ***NLP Using Pretrained Language Models, such as BERT, GPT, ELECTRA and KoBERT, KoELECTRA*** 
 - ***Deep Learning***
 
-### 👨‍🎓Educations
+</br>
 
-- ***Kyungpook National University, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (2021.3 ~ 2023.2)*** 
+
+
+<br>
+<h3 align='center'>🎓Educations </h3>
+
+
+
+- ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (2021.3 ~ 2023.2)*** 
 - ***Kyungpook National University, Department of Electronics Engineering, B.S. (2015 ~ 2021.2)***
 
 
-
+</br>
 
 
 
@@ -34,17 +46,34 @@
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | 2022.11 | [제 4회, 한국인 감정인식 AI 국제경진대회](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, Dialogue, Label Classification | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
 | 2022.10 | [SKT AI Fellowship, 4기, 멀티모달 AI 기술 연구](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
-| 2022.5 | [코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code, Natural Language Inference | 27 / 337 (상위 8%) |
-| 2022.1 | [한국어 문장 관계 분류 AI 경진대회](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 (상위 12%) |
-| 2021.8 | [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 (상위 28%) |
+| 2022.5 | [코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code, Natural Language Inference | 27 / 337 **(상위 8%)** |
+| 2022.1 | [한국어 문장 관계 분류 AI 경진대회](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(상위 12%)** |
+| 2021.8 | [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(상위 28%)** |
 | 2021.2 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
 </br>
 
 
+<br>
+<h3 align='center'>📑 Publications </h3>
+
+|  Date   |               Name               |  Organizer   |               Keywords              |                                               Authors                                                |
+| :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| 2022.11 | Story to Art Generation using Finetuned Stable Diffusion | ***Korean Artificial Intelligence Associaion (KAIA 2022, Autumn), Domestic Conference*** | ***Text-to-Image Synthesis, Multi-modal, NLP, GPT*** | ***[Seunghoon Lee](https://github.com/16SeungHun), [Dongyeop Lee](https://github.com/edong6768), [Eunchan Lee (Me)](https://github.com/purang2)***|
+| 2022.10 | Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, Text&Image Multi-modal AI***| ***[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| 2022.10 | Improving Performance of Sentiment Classification using Korean Style Transfer based Data Augmentation  | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Sytle Transfer, Data Augmentation, BART***| ***[Eunwoo Go](https://github.com/eun-woo),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| 2022.10 | Generating Literature-Style Sentences based on Summarized Text | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, BART***| ***[Bugwang Choe](https://github.com/mecuryD),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| 2022.8 | Prompt-based In-Context Learning for Korean Question Answering | ***Korean Artificial Intelligence Associaion (KAIA 2022, Summer), Domestic Conference*** | ***NLP, Question Answering, Few-shot Learning, In-context Learning*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko),[Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
+| 2022.4 | [Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models](https://www.mdpi.com/2076-3417/12/9/4522) | ***International Journal, Applied Sciences (💎SCIE, IF=2.838)*** | ***NLP, BERT, Multi Class Text Classification*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko), [Changhyeon Lee](https://github.com/2changhyeon), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
+</br>
+
+
+
+<br>
+<h3 align='center'> 👨‍💻 Github Stats </h3>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purang2&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 
@@ -103,6 +132,9 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+
+</br>
 <!--
 **purang2/purang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
