@@ -44,9 +44,9 @@
 
 |  Date   |               Name               |  Organizer   |               Related Task               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| 2022.11 | [제 4회, 한국인 감정인식 AI 국제경진대회](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, Dialogue, Label Classification | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
-| 2022.10 | [SKT AI Fellowship, 4기, 멀티모달 AI 기술 연구](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
-| 2022.5 | [코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code, Natural Language Inference | 27 / 337 **(Top 8%)** |
+| 2022.11 | [The 4th Korean Emotion Recognition International Challenge, 2022](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, K-Drama Dialogue Analysis, Sentiment Analysis | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
+| 2022.10 | [SKT AI Fellowship, Multi-modal AI Tech Research](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
+| 2022.5 | [코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code Similarity | 27 / 337 **(Top 8%)** |
 | 2022.1 | [한국어 문장 관계 분류 AI 경진대회](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
 | 2021.8 | [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
 | 2021.2 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
