@@ -10,6 +10,7 @@
 
 **2023**
 - ***Text Generation & Evaluation***
+- ***Multilingual & Korean NLP***
 - ***Prompt-based Few-shot Learning***
 - ***Dataset, NLP Benchmark Engineering***
 
@@ -31,8 +32,8 @@
 
 
 
-- ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (2021.3 ~ 2023.2)*** 
-- ***Kyungpook National University, Department of Electronics Engineering, B.S. (2015 ~ 2021.2)***
+- ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (Mar. 2021 ~ Feb. 2023)*** 
+- ***Kyungpook National University, Department of Electronics Engineering, B.S. (Mar. 2015 ~ Feb. 2021)***
 
 
 </br>
@@ -44,13 +45,13 @@
 
 |  Date   |               Name               |  Organizer   |               Related Task               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| 2022.11 | [The 4th Korean Emotion Recognition International Challenge, 2022](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, K-Drama Dialogue Analysis, Sentiment Analysis | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
-| 2022.10 | [SKT AI Fellowship, Multi-modal AI Tech Research](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
-| 2022.5 | [코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code Similarity | 27 / 337 **(Top 8%)** |
-| 2022.1 | [한국어 문장 관계 분류 AI 경진대회](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
-| 2021.8 | [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
-| 2021.2 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
-| 2020.11 | [대경권 AI Programming 경진대회 2020](https://career.programmers.co.kr/competitions/581/dg-univ-2020) | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
+| Nov. 2022 | [The 4th Korean Emotion Recognition International Challenge, 2022](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, K-Drama Dialogue Analysis, Sentiment Analysis | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
+| Oct. 2022 | [SKT AI Fellowship, Multi-modal AI Tech Research](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
+| May. 2022 | [코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code Similarity | 27 / 337 **(Top 8%)** |
+| Jan. 2022 | [한국어 문장 관계 분류 AI 경진대회](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
+| Aug. 2021 | [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
+| Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
+| Nov. 2020 | [대경권 AI Programming 경진대회 2020](https://career.programmers.co.kr/competitions/581/dg-univ-2020) | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
 
 
@@ -59,12 +60,12 @@
 
 |  Date   |               Name               |  Organizer   |               Keywords              |                                               Authors                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| 2022.11 | Story to Art Generation using Finetuned Stable Diffusion | ***Korean Artificial Intelligence Associaion (KAIA 2022, Autumn), Domestic Conference*** | ***Text-to-Image Synthesis, Multi-modal, NLP, GPT*** | ***[Seunghoon Lee](https://github.com/16SeungHun), [Dongyeop Lee](https://github.com/edong6768), [Eunchan Lee (Me)](https://github.com/purang2)***|
-| 2022.10 | Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, Text&Image Multi-modal AI***| ***[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
-| 2022.10 | Improving Performance of Sentiment Classification using Korean Style Transfer based Data Augmentation  | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Sytle Transfer, Data Augmentation, BART***| ***[Eunwoo Go](https://github.com/eun-woo),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
-| 2022.10 | Generating Literature-Style Sentences based on Summarized Text | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, BART***| ***[Bugwang Choe](https://github.com/mecuryD),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
-| 2022.8 | Prompt-based In-Context Learning for Korean Question Answering | ***Korean Artificial Intelligence Associaion (KAIA 2022, Summer), Domestic Conference*** | ***NLP, Question Answering, Few-shot Learning, In-context Learning*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko),[Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
-| 2022.4 | [Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models](https://www.mdpi.com/2076-3417/12/9/4522) | ***International Journal, Applied Sciences (💎SCIE, IF=2.838)*** | ***NLP, BERT, Multi Class Text Classification*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko), [Changhyeon Lee](https://github.com/2changhyeon), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
+| Nov. 2022 | Story to Art Generation using Finetuned Stable Diffusion | ***Korean Artificial Intelligence Associaion (KAIA 2022, Autumn), Domestic Conference*** | ***Text-to-Image Synthesis, Multi-modal, NLP, GPT*** | ***[Seunghoon Lee](https://github.com/16SeungHun), [Dongyeop Lee](https://github.com/edong6768), [Eunchan Lee (Me)](https://github.com/purang2)***|
+| Oct. 2022 | Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, Text&Image Multi-modal AI***| ***[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| Oct. 2022 | Improving Performance of Sentiment Classification using Korean Style Transfer based Data Augmentation  | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Sytle Transfer, Data Augmentation, BART***| ***[Eunwoo Go](https://github.com/eun-woo),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| Oct. 2022 | Generating Literature-Style Sentences based on Summarized Text | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, BART***| ***[Bugwang Choe](https://github.com/mecuryD),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| Aug. 2022 | Prompt-based In-Context Learning for Korean Question Answering | ***Korean Artificial Intelligence Associaion (KAIA 2022, Summer), Domestic Conference*** | ***NLP, Question Answering, Few-shot Learning, In-context Learning*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko),[Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
+| Apr. 2022 | [Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models](https://www.mdpi.com/2076-3417/12/9/4522) | ***International Journal, Applied Sciences (💎SCIE, IF=2.838)*** | ***NLP, BERT, Multi Class Text Classification*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko), [Changhyeon Lee](https://github.com/2changhyeon), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
 </br>
 
 
