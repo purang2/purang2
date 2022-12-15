@@ -28,7 +28,7 @@
 
 
 <br>
-<h3 align='center'>🎓Educations </h3>
+<h3 align='center'>🎓Education </h3>
 
 
 
