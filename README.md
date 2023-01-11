@@ -9,10 +9,10 @@
 <h3 align='center'>🍎 Research Interests </h3>
 
 **2023**
-- ***Text Generation & Evaluation***
+- ***Abstractive Summarization***
+- ***Conversation AI***
+- ***Text Generation***
 - ***Multilingual & Korean NLP***
-- ***Prompt-based Few-shot Learning***
-- ***Dataset, NLP Benchmark Engineering***
 
 **2022**
 - ***Natural Language Generation (NLG), with NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
