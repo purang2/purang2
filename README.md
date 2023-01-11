@@ -9,9 +9,8 @@
 <h3 align='center'>🍎 Research Interests </h3>
 
 **2023**
-- ***Abstractive Summarization***
-- ***Conversation AI***
-- ***Text Generation***
+- ***Text Generation: Abstractive Summarization, Conversation AI***
+- ***State-of-the-art NLP Learning: Prompt-based Learning or Contrastive Learning or Few-shot Learning***
 - ***Multilingual & Korean NLP***
 
 **2022**
