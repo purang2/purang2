@@ -125,18 +125,20 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 ### Hits
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Do%20whatever%20you%20want!🎯&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Focusing%20!🎯&fontSize=32)
 
 
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=purang2)](https://solved.ac/purang2)-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
 </br>
 <!--
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 **purang2/purang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
