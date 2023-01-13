@@ -50,7 +50,7 @@
 | Jan. 2022 | [한국어 문장 관계 분류 AI 경진대회](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
 | Aug. 2021 | [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
-| Nov. 2020 | [대경권 AI Programming 경진대회 2020](https://career.programmers.co.kr/competitions/581/dg-univ-2020) | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
+| Nov. 2020 | 대경권 AI Programming 경진대회 2020 | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
 
 
