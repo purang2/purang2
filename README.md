@@ -68,6 +68,7 @@
 </br>
 
 
+<!--
 
 <br>
 <h3 align='center'> 👨‍💻 Github Stats </h3>
@@ -76,7 +77,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purang2&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 
 ![youngha](https://user-images.githubusercontent.com/46081500/143519557-e28dc601-3991-4487-9f50-6b3e532934a4.png)
 
