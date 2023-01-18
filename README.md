@@ -126,7 +126,7 @@ searching codes with Github,implementing with codes, reading papers, studying wi
 ### Hits
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Focusing%20!🎯&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Practice%20is%20better%20than%20theory.%20So%20keep%20walking!🚴‍♀️%20&fontSize=32)
 
 
 <!--[![Solved.ac
