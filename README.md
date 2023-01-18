@@ -1,6 +1,7 @@
 
 ## 🤭 Hi I'm purang2
 - ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
+- ***I'm studying Natural Language Processing.***
 - ***I worked as [Student Volunteer](https://coling2022.org/cfv) at THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS ([COLING 2022](https://coling2022.org/index), October 12-17, 2022 / Gyeongju, Republic of Korea)***
 
 
