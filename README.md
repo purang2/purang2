@@ -12,18 +12,17 @@
 **2023**
 - ***Text Generation: Abstractive Summarization, Conversation AI***
 - ***State-of-the-art NLP Learning: Prompt-based Learning or Contrastive Learning or Few-shot Learning***
-- ***Multi-modal AI (NLP + Computer Vision)***
 - ***Multi-lingual & Korean NLP***
 
 **2022**
 - ***Natural Language Generation (NLG), with NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
 - ***Prompt-based Few-shot Learning, using Large-scale Pretrained Language Models ([@My M.S. Graduate Thesis](https://github.com/purang2/MS-thesis-defense/blob/main/DEFENSE/%EC%84%9D%EC%82%AC%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%20%EB%94%94%ED%8E%9C%EC%8A%A4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_AI_NLP_%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.pdf))***
-
+<!--
 **2021**
 - ***Natural Language Processing (NLP), for Korean Tasks*** 
 - ***NLP Using Pretrained Language Models, such as BERT, GPT, ELECTRA and KoBERT, KoELECTRA*** 
 - ***Deep Learning***
-
+-->
 </br>
 
 
