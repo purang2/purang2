@@ -42,7 +42,7 @@
 <br>
 <h3 align='center'>📑🕵️‍♂️ Publications </h3>
 
-|  Date   |               Name               |  Organizer   |               Keywords              |                                               Authors                                                |
+   |  Date   |               Name               |  Journal or Conference   |               Keywords              |                                               Authors                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | Nov. 2022 | Story to Art Generation using Finetuned Stable Diffusion | ***Korean Artificial Intelligence Associaion (KAIA 2022, Autumn), Domestic Conference*** | ***Text-to-Image Synthesis, Multi-modal, NLP, GPT*** | ***[Seunghoon Lee](https://github.com/16SeungHun), [Dongyeop Lee](https://github.com/edong6768), [Eunchan Lee (Me)](https://github.com/purang2)***|
 | Oct. 2022 | Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, Text&Image Multi-modal AI***| ***[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
