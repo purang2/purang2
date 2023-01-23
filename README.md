@@ -9,14 +9,12 @@
 <br>
 <h3 align='center'>⚔😆 Research Interests </h3>
 
-**2023**
-- ***Text Generation: Abstractive Summarization, Conversation AI***
-- ***State-of-the-art NLP Learning: Prompt-based Learning or Contrastive Learning or Few-shot Learning***
-- ***Multi-lingual & Korean NLP***
+- ***🤔Deep Learning-based Natural Language Generation: Abstractive Summarization, Conversation AI (2023~)*** 
+- ***🤔Learning Representations for NLP: Prompt-based Few-shot Learning, Contrastive Learning (2023~)*** 
+- ***🤔Non-English!: Multilingual, Korean (2023~)***
+- ***🧐Natural Language Generation (NLG), with NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
+- ***🧐Prompt-based Few-shot Learning, using Large-scale Pretrained Language Models ([Graduate Thesis in M.S.course](https://github.com/purang2/MS-thesis-defense/blob/main/DEFENSE/%EC%84%9D%EC%82%AC%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%20%EB%94%94%ED%8E%9C%EC%8A%A4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_AI_NLP_%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.pdf)) (2022)*** 
 
-**2022**
-- ***Natural Language Generation (NLG), with NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI)***
-- ***Prompt-based Few-shot Learning, using Large-scale Pretrained Language Models ([M.S. Graduate Thesis](https://github.com/purang2/MS-thesis-defense/blob/main/DEFENSE/%EC%84%9D%EC%82%AC%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%20%EB%94%94%ED%8E%9C%EC%8A%A4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_AI_NLP_%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.pdf))***
 <!--
 **2021**
 - ***Natural Language Processing (NLP), for Korean Tasks*** 
