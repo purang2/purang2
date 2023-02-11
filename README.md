@@ -11,7 +11,8 @@
 
 - ***Deep Learning-based Text Generation: Abstractive Summarization, Conversation AI*** 
    - ***NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
-- ***Learning Representations: In-Context Learning, Contrastive Learning*** 
+- ***Learning Representations: In-Context Learning, Contrastive Learning***
+- ***Multilingual NLP*** 
 
 
 
