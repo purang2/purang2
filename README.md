@@ -37,7 +37,8 @@
 
 
 - ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (Mar. 2021 ~ Feb. 2023)*** 
-- ***Kyungpook National University, Department of Electronics Engineering, B.S. (Mar. 2015 ~ Feb. 2021)***
+- ***Kyungpook National University, Department of Electronics Engineering, B.S. (Mar. 2015 ~ Feb. 2021)*** 
+   - ***👨‍🦱 Minor in Software programming, participated in many projects! [[portfolio, 🇰🇷]](https://github.com/purang2/SW2020eval)*** 
 
 
 </br>
