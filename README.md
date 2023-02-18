@@ -61,7 +61,7 @@
 
 
 <br>
-<h3 align='center'>🏆 Awards & AI Competitions </h3>
+<h3 align='center'>🏆 (Related) Awards & Competitions </h3>
 
 |  Date   |               Name               |  Organizer   |               Related Task               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
