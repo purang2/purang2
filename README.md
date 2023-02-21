@@ -9,7 +9,7 @@
 <br>
 <h3 align='center'>⚔ Research Interests </h3>
 
-- ***Deep Learning-based Text Generation: Abstractive Summarization, Conversation AI*** 
+- ***Deep Learning-based Text Generation: Abstractive Summarization, Conversational AI*** 
    - ***NLG Study Group in [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
 - ***Learning Representations: In-Context Learning, Contrastive Learning***
 - ***Multilingual NLP*** 
