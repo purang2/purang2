@@ -22,7 +22,7 @@
       - ***Contrastive Learning***
    - ***Creating and Evaluating Datasets***
       - ***Hallucinations***
-      - ***evaluation metric***
+      - ***Evaluation metric***
       - ***Creating a new dataset***
 
 
