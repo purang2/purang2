@@ -11,10 +11,11 @@
 <h3 align='center'>⚔ Research Interests </h3>
 
 - ***Deep Learning-based Text Generation***
-   - ***Abstractive Summarization*** 
+   - ***🧐Abstractive Summarization*** 
    - ***(+ Conversational AI )*** 
    - ***NLG Study Group [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
 - ***Learning Representations: In-Context Learning, Contrastive Learning***
+- ***Evaluating Dataset***
 - ***Multilingual NLP***
 - ***Multimodal AI*** 
 
@@ -40,7 +41,7 @@
 
 
 
-- ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab](https://github.com/KNU-BrainAI)(Prof. Sangtae Ahn), Graduate School, M.S. (Mar. 2021 ~ Feb. 2023)*** 
+- ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab (Prof. Sangtae Ahn)](https://github.com/KNU-BrainAI), Graduate School, M.S. (Mar. 2021 ~ Feb. 2023)*** 
 - ***Kyungpook National University, Department of Electronics Engineering, B.S. (Mar. 2015 ~ Feb. 2021)*** 
    - ***👨‍🦱 Minored in Software programming, participated in many projects! [[portfolio, 🇰🇷]](https://github.com/purang2/SW2020eval)*** 
 
@@ -69,13 +70,13 @@
 
 |  Date   |               Name               |  Organizer   |               Related Task               |                                               Rank                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| Nov. 2022 | [The 4th Korean Emotion Recognition International Challenge, 2022](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, K-Drama Dialogue Analysis, Sentiment Analysis | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
-| Oct. 2022 | [SKT AI Fellowship, Multi-modal AI Tech Research](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
-| May. 2022 | [Code Similarity Detection AI Competition](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code Similarity | 27 / 337 **(Top 8%)** |
-| Jan. 2022 | [Korean Sentence Pair Classification AI Competition](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
-| Aug. 2021 | [Natural Language-based Climate Technology Information Classification AI Competition](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
+| Nov. 2022 | [The 4th Korean Emotion Recognition International Challenge, 2022](https://github.com/purang2/KERC-Challenge) | Chonnam National University 🇰🇷| NLP, K-Drama Dialogue Analysis, Sentiment Analysis | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
+| Oct. 2022 | [SKT AI Fellowship, Multi-modal AI Tech Research](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom 🇰🇷| Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
+| May. 2022 | [Code Similarity Detection AI Competition](https://dacon.io/competitions/official/235900/overview/description) | Dacon 🇰🇷| NLP, Code Similarity | 27 / 337 **(Top 8%)** |
+| Jan. 2022 | [Korean Sentence Pair Classification AI Competition](https://dacon.io/competitions/official/235875/overview/description) | Dacon 🇰🇷| NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
+| Aug. 2021 | [Natural Language-based Climate Technology Information Classification AI Competition](https://dacon.io/competitions/official/235744/overview/description) | Dacon 🇰🇷| NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
-| Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
+| Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University 🇰🇷| Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
 
 
