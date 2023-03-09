@@ -2,8 +2,8 @@
 ## 🤭 Hi I'm purang2
 <!--- ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***-->
 - ***I'm currently studying Deep Learning-based Text Generation [@UNIST AIGS, Language & Intelligence Lab (Prof. Hyounghun Kim)](https://sites.google.com/view/language-intelligence-lab) (Research Intern)***
-- ***I'm interested in NLP & NLG dealing with language models (e.g. GPT, BART) for summarization, conversational AI!***
-- ***I worked as student volunteer [@COLING 2022](https://coling2022.org/index)(October 12-17, 2022 / Gyeongju, Republic of Korea 🇰🇷)***
+- ***I'm interested in NLP & NLG dealing with language models (e.g. GPT, BART) for summarization, conversational AI.***
+- ***I worked as student volunteer [@COLING 2022](https://coling2022.org/index)(October 12-17, 2022 / Gyeongju, Republic of Korea 🇰🇷).***
 
 ![CODAGAIN](https://user-images.githubusercontent.com/46081500/223888025-77fded44-5adc-4940-b66d-3edf0af35572.jpg)
 
@@ -16,7 +16,7 @@
    - ***(+ Conversational AI )*** 
    - ***NLG Study Group [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
 - ***Learning Representations: In-Context Learning, Contrastive Learning***
-- ***Evaluating Dataset***
+- ***Creating and Evaluating Datasets for Summarization***
 - ***Multilingual NLP***
 - ***Multimodal AI*** 
 
