@@ -15,10 +15,15 @@
    - ***🧐Abstractive Summarization*** 
    - ***(+ Conversational AI )*** 
    - ***NLG Study Group [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
-- ***Learning Representations: In-Context Learning, Contrastive Learning***
-- ***Creating and Evaluating Datasets for Summarization***
-- ***Multilingual NLP***
-- ***Multimodal AI*** 
+- ***Prompting, using Large-scale Pretrained Language Models***
+- ***Improving Text Summarization System***
+   - ***Learning Representations*** 
+      - ***In-Context Learning***
+      - ***Contrastive Learning***
+   - ***Creating and Evaluating Datasets***
+      - ***Hallucinations***
+      - ***evaluation metric***
+      - ***Creating a new dataset***
 
 
 
