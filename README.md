@@ -1,8 +1,8 @@
 
 ## 🤭 Hi I'm purang2
 <!--- ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***-->
-- ***I'm currently studying natural language understanding(NLU) and generation(NLG) [@UNIST AIGS, Language & Intelligence Lab (Prof. Hyounghun Kim)](https://sites.google.com/view/language-intelligence-lab) (Research Intern)***
-- ***Now I aim to improving Abstractive Summarization System***
+- ***I'm currently studying natural language understanding(NLU) and generation(NLG). [@UNIST AIGS, Language & Intelligence Lab (Prof. Hyounghun Kim)](https://sites.google.com/view/language-intelligence-lab) (Research Intern)***
+- ***Now I aim to improving Abstractive Summarization System beyond News Summarization.***
 - ***I worked as student volunteer [@COLING 2022](https://coling2022.org/index)(October 12-17, 2022 / Gyeongju, Republic of Korea 🇰🇷).***
 - ***If you're interested in my work, feel free to follow my Github.***
 
