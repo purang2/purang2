@@ -49,6 +49,7 @@
 
 
 - ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab (Prof. Sangtae Ahn)](https://github.com/KNU-BrainAI), Graduate School, M.S. (Mar. 2021 ~ Feb. 2023)*** 
+   - ***([M.S.Thesis for degree](https://github.com/purang2/MS-thesis-defense/blob/main/DEFENSE/KNU_thesis_%EC%9D%80%EC%B0%AC.pdf))*** 
 - ***Kyungpook National University, Department of Electronics Engineering, B.S. (Mar. 2015 ~ Feb. 2021)*** 
    - ***👨‍🦱 Minored in Software programming, participated in many projects! [[portfolio, 🇰🇷]](https://github.com/purang2/SW2020eval)*** 
 
