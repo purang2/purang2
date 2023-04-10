@@ -1,31 +1,19 @@
 
 ## 🤭 Hi I'm purang2
 <!--- ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***-->
-- ***I'm currently studying natural language understanding(NLU) and generation(NLG). [@UNIST AIGS, Language & Intelligence Lab (Prof. Hyounghun Kim)](https://sites.google.com/view/language-intelligence-lab) (Research Intern)***
+- ***I'm currently researching natural language understanding(NLU) and generation(NLG) [@UNIST AIGS, Language & Intelligence Lab (Prof. Hyounghun Kim)](https://sites.google.com/view/language-intelligence-lab) (Research Intern).***
 - ***Now I aim to improving Abstractive Summarization System beyond News Summarization.***
 - ***I worked as student volunteer [@COLING 2022](https://coling2022.org/index)(October 12-17, 2022 / Gyeongju, Republic of Korea 🇰🇷).***
-- ***If you're interested in my work, feel free to follow my Github.***
-
-![CODAGAIN](https://user-images.githubusercontent.com/46081500/223888025-77fded44-5adc-4940-b66d-3edf0af35572.jpg)
 
 
 <br>
 <h3 align='center'>⚔ Research Interests </h3>
 
 - ***Deep Learning-based Text Generation***
-   - ***🧐Abstractive Summarization*** 
+   - ***🧐Improving Text Summarization System*** 
    - ***(+ Conversational AI )*** 
    - ***NLG Study Group [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
 - ***Prompting, using Large-scale Pretrained Language Models***
-- ***Improving Text Summarization System***
-   - ***Learning Representations*** 
-      - ***In-Context Learning***
-      - ***Contrastive Learning***
-   - ***Creating and Evaluating Datasets***
-      - ***Hallucinations***
-      - ***Evaluation metric***
-      - ***Creating a new dataset***
-
 
 
 <!--
@@ -86,6 +74,10 @@
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
 | Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University 🇰🇷| Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
+
+
+![CODAGAIN](https://user-images.githubusercontent.com/46081500/223888025-77fded44-5adc-4940-b66d-3edf0af35572.jpg)
+
 
 
 <!--
