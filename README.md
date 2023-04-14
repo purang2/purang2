@@ -11,6 +11,7 @@
 
 - ***Deep Learning-based Text Generation***
    - ***🧐Improving Text Summarization System*** 
+   - ***🧐Multimodal: Visual-Language Modeling*** 
    - ***(+ Conversational AI )*** 
    - ***NLG Study Group [@KNU-BrainAI](https://github.com/KNU-BrainAI) (2022)*** 
 - ***Prompting, using Large-scale Pretrained Language Models***
