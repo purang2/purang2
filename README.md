@@ -2,7 +2,7 @@
 ## 🤭 Hi I'm purang2
 <!--- ***I'm on Team [@KNU-BrainAI](https://github.com/KNU-BrainAI)***-->
 - ***I'm currently studying natural language processing at [UNIST AIGS, Language & Intelligence Lab (Prof. Hyounghun Kim👍)](https://sites.google.com/view/language-intelligence-lab) (as Research Intern).***
-- ***Now I aim to improving Abstractive Summarization System beyond News Summarization.***
+- ***I'm interested in improving Abstractive Summarization System. ( beyond typical News Summarization)***
 - ***I worked as student volunteer [@COLING 2022](https://coling2022.org/index)(October 12-17, 2022 / Gyeongju, Republic of Korea 🇰🇷).***
 - ***SKT AI Fellowship (4th, 2022) Member! (Vision-Language Multi-modal AI Research)***
 
@@ -76,11 +76,11 @@
 </br>
 
 
-![CODAGAIN](https://user-images.githubusercontent.com/46081500/223888025-77fded44-5adc-4940-b66d-3edf0af35572.jpg)
-
 
 
 <!--
+
+![CODAGAIN](https://user-images.githubusercontent.com/46081500/223888025-77fded44-5adc-4940-b66d-3edf0af35572.jpg)
 
 <br>
 <h3 align='center'> 👨‍💻 Github Stats </h3>
