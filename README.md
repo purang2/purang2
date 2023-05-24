@@ -43,7 +43,7 @@
 
 </br>
 
-
+<!--
 <br>
 <h3 align='center'>📑 Publications </h3>
 
@@ -74,7 +74,7 @@
 | Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University 🇰🇷| Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
 
-
+-->
 
 
 <!--
