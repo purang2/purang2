@@ -30,9 +30,9 @@
 
 
 
+<!--
 <br>
 <h3 align='center'>🎓Education </h3>
-
 
 
 - ***Kyungpook National University, Department of Electronic and Electrical Engineering, [@Brain AI Lab (Prof. Sangtae Ahn👍)](https://github.com/KNU-BrainAI), Graduate School, M.S. (Mar. 2021 ~ Feb. 2023)*** 
@@ -43,7 +43,6 @@
 
 </br>
 
-<!--
 <br>
 <h3 align='center'>📑 Publications </h3>
 
