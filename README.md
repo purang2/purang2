@@ -30,7 +30,6 @@
 
 
 
-<!--
 <br>
 <h3 align='center'>🎓Education </h3>
 
@@ -70,10 +69,11 @@
 | Jan. 2022 | [Korean Sentence Pair Classification AI Competition](https://dacon.io/competitions/official/235875/overview/description) | Dacon 🇰🇷| NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
 | Aug. 2021 | [Natural Language-based Climate Technology Information Classification AI Competition](https://dacon.io/competitions/official/235744/overview/description) | Dacon 🇰🇷| NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
+<!--
 | Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University 🇰🇷| Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
+-->
 </br>
 
--->
 
 
 <!--
