@@ -5,8 +5,12 @@ Hello world!
 
 I'm an ordinary NLPer in 🇰🇷.  I'm thinking about making creative and useful self-made open-source projects based on LLM, NLP.
 
-저는 스스로를 분야의 파도를 잘 탄 멍청이라고 여겨요. Programming, Deep Learning, and NLP, LLMs. 분야를 잘 고르곤 하지만 그 분야에서 뛰어난 실력을 발휘하진 못한다고 스스로를 여겨왔어요. 
-그렇기 때문에 제 목표는 제가 정말로 좋아할 수 있는 작은 분야에서 스페셜리스트가 되는 것입니다. 그렇기 위해 즐길 수 있는 분야를 찾아나갈 겁니다. 
+
+> 요즘 저는 스스로를 분야의 파도를 잘 탄 멍청이라고 여겨요. Programming, Deep Learning, NLP, 그리고 LLM (Large Language Model). 
+항상 분야를 잘 고르곤 했지만 제가 그 분야에서 정말 뛰어난 실력을 발휘하진 못했었다고 요즘 느껴요. 
+
+> 그렇기 때문에 앞으로의 제 목표는 제가 정말로 좋아할 수 있는 작은 분야에서 스페셜리스트가 되는 것입니다. 
+> 그렇기 위해 즐길 수 있는 분야를 계속 찾아나갈 겁니다. 
 
 
 
