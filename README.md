@@ -15,7 +15,7 @@ I'm an ordinary NLPer in 🇰🇷.  I'm thinking about making creative and usefu
 ![pic3](https://github.com/purang2/purang2/assets/46081500/de055688-cf1a-4e87-977b-b5c9d1c737f4)
 
 
-I studied at Kyungpook National University's Department of Electronic Engineering and earned bachelor's and master's degrees. 
+I studied at [Kyungpook National University, School of Electronic Engineering](https://see.knu.ac.kr/), earned bachelor's and master's degrees. 
 
 I worked as a researcher at ***[KNU Brain-AI Lab](https://knu-brainai.github.io/)***.(2020-09-01 - 2023-02-17)
 
