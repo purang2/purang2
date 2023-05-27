@@ -21,6 +21,8 @@ I'm an ordinary NLPer in 🇰🇷.  I'm thinking about making creative and usefu
 
 I studied at [Kyungpook National University, School of Electronic Engineering](https://see.knu.ac.kr/), earned bachelor's and master's degrees. 
 
+During my undergraduate years, I led many SW term projects by participating in practical major classes and external activities. [[portfolio in Korean]](https://github.com/purang2/SW2020eval), minored in Software programming. 
+
 I worked as a researcher at ***[KNU Brain-AI Lab](https://knu-brainai.github.io/)***.(2020-09-01 - 2023-02-17)
 
 Also I participated as a member of ***[the 4th SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Our topic was Multi-modal AI R&D such as DALL:E2, FLAMINGO). (2022-05 - 2022-11)
