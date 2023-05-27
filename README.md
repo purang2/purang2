@@ -23,6 +23,8 @@ I studied at [Kyungpook National University, School of Electronic Engineering](h
 
 I worked as a researcher at ***[KNU Brain-AI Lab](https://knu-brainai.github.io/)***.(2020-09-01 - 2023-02-17)
 
+Also I participated as a member of ***[the 4th SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Our topic was Multi-modal AI R&D such as DALL:E2, FLAMINGO). (2022-05 - 2022-11)
+
 Currently I worked as a research intern at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** (2023-01-30 - 2023-05-30).
 
 And I'm considering choosing between going to a Ph.D. program or getting an industry job seriously.
