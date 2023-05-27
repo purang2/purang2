@@ -34,10 +34,21 @@ And I'm considering choosing between going to a Ph.D. program or getting an indu
 
 
 
+🎼 Personelly I Like..
+- Listen to Boy Bandsound Music (*I Recommend you: [LUCY](https://www.youtube.com/channel/UCnXwXrQ8KIBoV8k1T3xGznw), [Ha Hyun-sang](https://www.youtube.com/@HyunSangHA_OFFICIAL), [Official Hige Dandism](https://www.youtube.com/@officialhigedandism), [NFlying](https://www.youtube.com/@nflyingofficial), CNBLUE, DAY6, DAYBREAK ...*)
+- Sing a song 
+- Read Books
+- Iced Americano everyday..
+
+
+
 You can reach me on
 
 [[**LinkedIn**]](https://www.linkedin.com/in/eunchan-lee-a21953209/) | [[**Google-Scholar**]](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko) | [[**Facebook**]](https://www.facebook.com/profile.php?id=100003388221714) |  [[**CV**]](https://github.com/purang2/purang2/blob/main/cv%20(7).pdf)
 
 or Email
 - eunchan789@gmail.com
+
+
+
 
