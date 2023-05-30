@@ -6,17 +6,18 @@ Hello world!
 I'm an ordinary NLPer in 🇰🇷.  I'm thinking about making creative and useful self-made open-source projects based on LLM, NLP.
 
 
+
+
+
+<!--
+
+
 > 앞으로의 제 목표는 제가 정말로 좋아할 수 있는 작은 분야에서 스페셜리스트가 되는 것입니다. 
 > 그렇기 위해 즐길 수 있는 분야를 계속 찾아나갈 겁니다. 
-> **한국어 NLP**를 관심있게 보고 있습니다!
-
-
-
-
-![pic3](https://github.com/purang2/purang2/assets/46081500/de055688-cf1a-4e87-977b-b5c9d1c737f4)
+> **한국어 NLP**를 관심있게 보고 있습니다!![pic3](https://github.com/purang2/purang2/assets/46081500/de055688-cf1a-4e87-977b-b5c9d1c737f4)
 
 ![pic1](https://github.com/purang2/purang2/assets/46081500/19610a3b-6a45-4ac1-85bc-216ad76937ac)
-
+-->
 I studied at [Kyungpook National University, School of Electronic Engineering](https://see.knu.ac.kr/), earned bachelor's and master's degrees. 
 
 During my undergraduate years, I led many SW term projects by participating in practical major classes and external activities. [[portfolio in Korean]](https://github.com/purang2/SW2020eval), minored in Software programming. 
