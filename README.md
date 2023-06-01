@@ -30,6 +30,7 @@ Currently I worked as a research intern at ***[UNIST Language & Intelligence Lab
 
 And I'm considering choosing between going to a Ph.D. program or getting an industry job seriously.
 
+--> I'm planning to join PhD program at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** !
 
 
 
