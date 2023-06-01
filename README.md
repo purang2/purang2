@@ -43,7 +43,7 @@ And I'm considering choosing between going to a Ph.D. program or getting an indu
 
 You can reach me on
 
-[[**LinkedIn**]](https://www.linkedin.com/in/eunchan-lee-a21953209/) | [[**Google-Scholar**]](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko) | [[**Facebook**]](https://www.facebook.com/profile.php?id=100003388221714) |  [[**CV**]](https://github.com/purang2/purang2/blob/main/cv%20(7).pdf)
+[[**LinkedIn**]](https://www.linkedin.com/in/eunchan-lee-a21953209/) | [[**Google-Scholar**]](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko) | [[**Facebook**]](https://www.facebook.com/profile.php?id=100003388221714) |  [[**CV**]](https://github.com/purang2/purang2/blob/main/cv%20(7).pdf) | [[**velog**]](https://velog.io/@purang2)
 
 or Email
 - eunchan789@gmail.com
