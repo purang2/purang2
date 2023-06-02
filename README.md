@@ -3,7 +3,7 @@
 
 Hello world! 
 
-I'm an ordinary NLPer in 🇰🇷.  I'm thinking about making creative and useful self-made open-source projects based on LLM, NLP.
+I'm an ordinary NLPer in 🇰🇷.  I'm thinking about making creative and useful self-made open-source projects based on Language Model, Machine Learning( NLP ).
 
 
 
