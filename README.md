@@ -1,7 +1,6 @@
 
 ## I'm Eunchan Lee
 
-- I'm an ordinary NLPer in KR! I am currently enjoying studying NLP at UNIST AI Graduate School!
 
 ### UNIST AI Graduate School (Now) 
 - Now I'm planning to enter PhD program at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** !
