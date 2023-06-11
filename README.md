@@ -14,21 +14,16 @@
 - Also I participated as a member of ***[SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Diffusion-based AI model for Story-to-Art Generation for Korean Children) (2022-05 - 2022-11)
 - During my undergraduate years, I led many SW term projects by participating in practical major classes and external activities. [[portfolio in Korean]](https://github.com/purang2/SW2020eval), minored in Software programming. 
 
-<!--
-
-🎼 Personelly I Like..
-- Listen to Boy Bandsound Music (*I Recommend you: [LUCY](https://www.youtube.com/channel/UCnXwXrQ8KIBoV8k1T3xGznw), [Ha Hyun-sang](https://www.youtube.com/@HyunSangHA_OFFICIAL), [Official Hige Dandism](https://www.youtube.com/@officialhigedandism), [NFlying](https://www.youtube.com/@nflyingofficial), CNBLUE, DAY6, DAYBREAK ...*)
-- Sing a song 
-- Read Books
-- Iced Americano everyday..
-
--->
-
 
 ### You can reach me on
 
 [[**LinkedIn**]](https://www.linkedin.com/in/eunchan-lee-a21953209/) | [[**Google-Scholar**]](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko) | [[**Facebook**]](https://www.facebook.com/profile.php?id=100003388221714) |  [[**CV**]](https://github.com/purang2/purang2/blob/main/cv%20(7).pdf) | [[**velog**]](https://velog.io/@purang2) | **eunchan789@gmail.com**
 
+**🎼 Personelly I Like..**
+- Listen to Band Music (*[LUCY](https://www.youtube.com/channel/UCnXwXrQ8KIBoV8k1T3xGznw), [Official Hige Dandism](https://www.youtube.com/@officialhigedandism), and [Ha Hyun-sang](https://www.youtube.com/@HyunSangHA_OFFICIAL)*)
+- Read Books
+- Iced Americano (everyday)..
 
+-->
 
 
