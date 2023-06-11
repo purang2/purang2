@@ -1,21 +1,17 @@
 
 ## I'm Eunchan Lee
 
-- I'm an ordinary NLPer in KR! I'm about to enter a PhD program!
+- I'm an ordinary NLPer in KR! I am currently enjoying studying NLP at UNIST AI Graduate School!
 
-### UNIST AI Graduate School
+### UNIST AI Graduate School (Now) 
 - Now I'm planning to enter PhD program at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** !
 - I worked as a research intern at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** (2023-01-30 ~)
 
-### Kyungpook National University School of Electronic Engineering
+### Kyungpook National University School of Electronic Engineering (Previous) 
 
 - Previous I studied at [Kyungpook National University, School of Electronic Engineering](https://see.knu.ac.kr/), earned bachelor's and master's degrees. 
-
-
 - I worked as a researcher at ***[KNU Brain-AI Lab](https://knu-brainai.github.io/)*** for my MS course. (2020-09-01 - 2023-02-17)
-
 - Also I participated as a member of ***[SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Diffusion-based AI model for Story-to-Art Generation for Korean Children) (2022-05 - 2022-11)
-
 - During my undergraduate years, I led many SW term projects by participating in practical major classes and external activities. [[portfolio in Korean]](https://github.com/purang2/SW2020eval), minored in Software programming. 
 
 <!--
