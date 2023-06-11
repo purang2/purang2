@@ -1,6 +1,5 @@
-
-## I'm Eunchan Lee
-
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Eunchan&descAlign=70.&descAlignY=44)
+  
 
 ### UNIST AI Graduate School (Now) 
 - Now I'm planning to enter PhD program at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** !
