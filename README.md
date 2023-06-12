@@ -32,6 +32,13 @@ Thank you for visiting my Github!
 <a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab (MS)-005F92?style=flat"/></a>
 <a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 
+**🎼Personelly I Like..**
+
+<img src="https://img.shields.io/badge/🎧Listen to Band Music (LUCY, Official Hige Dandism, Ha Hyun Sang, DAY6)-20C997?style=flat"/>
+<img src="https://img.shields.io/badge/📚Read Books-39477F?style=flat"/>
+<img src="https://img.shields.io/badge/🧉Iced Americano (everyday)-1877F2?style=flat"/>
+<img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/>
+<img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>
 
 
 </div>
