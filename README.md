@@ -27,6 +27,11 @@ Thank you for visiting my Github!
   
 ### 👨‍💻 Career
 
+<img src="https://img.shields.io/badge/UNIST, AI Graduate School, Language & Intelligence Lab-1877F2?style=flat"/>
+<img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering, Brain AI Lab-005F92?style=flat"/>
+<a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering-ED1324?style=flat"/></a>
+<img src="https://img.shields.io/badge/SKT AI Fellowship 2022-ED1324?style=flat"/>
+  
 I worked as a research intern at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** and now I'm planning to join ***[UNIST](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** ! (2023)
 
 Also I participated as a member of ***[SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Diffusion-based AI model for Story-to-Art Generation)
