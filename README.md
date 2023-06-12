@@ -14,7 +14,7 @@
   
 Hi I'm **Eunchan Lee, a NLP Researcher&Student**
 
-  Thank you for visiting my Github!
+Thank you for visiting my Github!
 
 ### I'm interested in
 <img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/>
@@ -24,20 +24,19 @@ Hi I'm **Eunchan Lee, a NLP Researcher&Student**
 <img src="https://img.shields.io/badge/Text/Document Evaluation-D71921?style=flat"/>
 <img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
   
-
-  
-  
   
 ### 👨‍💻 Career
 
-Now I'm planning to enter PhD program at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** !
-  I worked as a research intern at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** (2023-01-30 ~)
+I worked as a research intern at ***[UNIST Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** and now I'm planning to join ***[UNIST](https://sites.google.com/view/language-intelligence-lab/home?authuser=0)*** ! (2023)
 
+Also I participated as a member of ***[SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Diffusion-based AI model for Story-to-Art Generation)
+     
 Previous I studied at [Kyungpook National University, School of Electronic Engineering](https://see.knu.ac.kr/), earned bachelor's and master's degrees. 
-I worked as a researcher at ***[KNU Brain-AI Lab](https://knu-brainai.github.io/)*** for my MS course (2020-09-01 - 2023-02-17). During my undergraduate years, I led many [SW term projects](https://github.com/purang2/SW2020eval) by participating in practical major classes and external activities, minored in Software programming. 
 
+I worked as a researcher at ***[KNU Brain-AI Lab](https://knu-brainai.github.io/)*** for my MS course. 
+  
+During my undergraduate years, I led many [SW term projects](https://github.com/purang2/SW2020eval). (minored in Software programming) 
 
-  Also I participated as a member of ***[SKT AI Fellowship](https://www.sktuniv.com/)*** course! (Diffusion-based AI model for Story-to-Art Generation for Korean Children) (2022-05 - 2022-11)
 
 
 
