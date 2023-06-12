@@ -12,7 +12,7 @@
 
   
   
-Hi I'm **Eunchan Lee, a NLP Researcher**
+Hi I'm **Eunchan Lee, a NLP Researcher&Student**
 
   Thank you for visiting my Github!
 
