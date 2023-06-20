@@ -21,7 +21,7 @@ Thank you for visiting my Github!
 <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/LLM-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Text/Document/Book Summarization AI-1877F2?style=flat"/>
-<img src="https://img.shields.io/badge/Text/Document Evaluation-D71921?style=flat"/>
+<img src="https://img.shields.io/badge/Text/Document Evaluation Metric-D71921?style=flat"/>
 <img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
   
   
