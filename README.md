@@ -4,10 +4,11 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Eunchan&descAlign=70.&descAlignY=44)
 
   
-Hi I'm **Eunchan Lee, a NLP Researcher&Student**
+Hi I'm **Eunchan Lee, an AI / NLP Research Student**
 
 Thank you for visiting my Github!
 
+### Much Information
 <a href="https://www.linkedin.com/in/eunchan-lee-a21953209/" ><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/eunchan789" ><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white"/></a>
