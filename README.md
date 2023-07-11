@@ -51,7 +51,7 @@ Thank you for visiting my Github!
 
 <div align='center'>
     <h3>
-        Contribution Graphs
+        GitHub Profile Summary Cards
     </h3>
 </div>
 
