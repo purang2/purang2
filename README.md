@@ -49,6 +49,23 @@ Thank you for visiting my Github!
 
 </div>
 
+<div align='center'>
+    <h3>
+        Contribution Graphs
+    </h3>
+</div>
+
+<div align='center'>
+  
+![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=purang2&theme=algolia&utcOffset=8)
+
+</div>
+
+
 
 
 <!--
