@@ -1,5 +1,4 @@
   
-<div align=center>
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Eunchan&descAlign=70.&descAlignY=44)
 
@@ -9,25 +8,22 @@ Hi I'm **Eunchan Lee, an AI / NLP Research Student**
 Thank you for visiting my Github!
 
 ### More Information
-<a href="https://huggingface.co/UNIST-Eunchan" ><img src="https://img.shields.io/badge/HuggingFace-FFCD00?style=flat&logo=hexo&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunchan-lee-a21953209/" ><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/eunchan789" ><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=stfV6M8AAAAJ" ><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+<a href="https://huggingface.co/UNIST-Eunchan" ><img src="https://img.shields.io/badge/HuggingFace-FFCD00?style=flat&logo=hexo&logoColor=white"/></a>
 <a href="https://velog.io/@purang2" ><img src="https://img.shields.io/badge/Blog-1877F2?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/purang2/purang2/blob/main/cv%20(7).pdf" ><img src="https://img.shields.io/badge/CV-000000?style=flat&logo=AngelList&logoColor=white"/></a>
 
 <!--
-<a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/eunchan789" ><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white"/></a>
 -->
 
   
 ### I'm interested in
-<img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/>
-<img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
+<img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/Text/Document/Book Summarization AI-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Text/Document Evaluation Metric-D71921?style=flat"/>
-
-
 <img src="https://img.shields.io/badge/LLM-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Story Generation-20C997?style=flat"/>
 <img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
@@ -44,14 +40,12 @@ Thank you for visiting my Github!
 
 **🎼Personelly I Like..**
 
-<img src="https://img.shields.io/badge/🎧Listen to Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/>
-<img src="https://img.shields.io/badge/📚Read Books-39477F?style=flat"/>
+<img src="https://img.shields.io/badge/🎧Listen to Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/> <img src="https://img.shields.io/badge/📚Read Books-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/🧉Iced Americano (everyday)-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>
 
 
-</div>
 
 <div align='center'>
     <h3>
