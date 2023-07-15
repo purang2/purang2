@@ -1,9 +1,9 @@
   
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Eunchan&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20I'm%20Eunchan&fontAlign=70&rotate=13&fontAlignY=25&desc=AI%20/%20NLP%20Research%20Student&descAlign=70.&descAlignY=44)
 
   
-Hi I'm **Eunchan Lee, an AI / NLP Research Student**
+<!--Hi I'm **Eunchan Lee, an AI / NLP Research Student**-->
 
 Thank you for visiting my Github!
 
@@ -22,8 +22,8 @@ Thank you for visiting my Github!
   
 ### I'm interested in
 <img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
-<img src="https://img.shields.io/badge/Text/Document/Book Summarization AI-1877F2?style=flat"/>
-<img src="https://img.shields.io/badge/Text/Document Evaluation Metric-D71921?style=flat"/>
+<img src="https://img.shields.io/badge/Text/Document/Book Summarization-1877F2?style=flat"/>
+<img src="https://img.shields.io/badge/Text/Document Evaluation-D71921?style=flat"/>
 <img src="https://img.shields.io/badge/LLM-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Story Generation-20C997?style=flat"/>
 <img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
