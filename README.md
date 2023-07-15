@@ -61,6 +61,8 @@ Thank you for visiting my Github!
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=purang2&theme=algolia)
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=purang2&theme=algolia&utcOffset=8)
 
+![dev3](https://github.com/purang2/purang2/assets/46081500/1504f7a4-60fe-4627-8117-ea8f5d150b69)
+
 </div>
 
 
