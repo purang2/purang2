@@ -1,8 +1,8 @@
 ### Hi there, I'm Eunchan Lee 
 
 
-- 😊 I'm currently working at [LILAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
-- 🧐 I'm interested in NLP, especially long document related tasks (such as book summarization, story generation).
+- 🧐 I'm currently working at [LILAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
+- 🌱 I'm interested in NLP, especially long document related tasks (such as book summarization, story generation).
 - Email: eunchan789@gmail.com
 - If you have any questions, feel free to contact me! 
   
