@@ -1,12 +1,23 @@
-  
+### Hi there, I'm Eunchan Lee 
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20I'm%20Eunchan&fontAlign=70&rotate=13&fontAlignY=25&desc=AI%20/%20NLP%20Research%20Student&descAlign=70.&descAlignY=44)
 
-  
-<!--Hi I'm **Eunchan Lee, an AI / NLP Research Student**-->
+-  😊 I'm currently working at [LILAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
+- 🧐 I'm interested in NLP, especially long document related tasks (such as book summarization).
 
 Thank you for visiting my Github!
 
+
+
+
+
+
+<!--
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20I'm%20Eunchan&fontAlign=70&rotate=13&fontAlignY=25&desc=AI%20/%20NLP%20Research%20Student&descAlign=70.&descAlignY=44)
+-->
+  
+<!--Hi I'm **Eunchan Lee, an AI / NLP Research Student**-->
+
+<!--
 ### More Information
 <a href="https://www.linkedin.com/in/eunchan-lee-a21953209/" ><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -16,10 +27,9 @@ Thank you for visiting my Github!
 <a href="https://velog.io/@purang2" ><img src="https://img.shields.io/badge/Blog-1877F2?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/purang2/purang2/blob/main/cv%20(7).pdf" ><img src="https://img.shields.io/badge/CV-000000?style=flat&logo=AngelList&logoColor=white"/></a>
 
-<!--
 -->
 
-  
+<!--
 ### I'm interested in
 <img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/Text/Document/Book Summarization-1877F2?style=flat"/>
@@ -46,7 +56,6 @@ Thank you for visiting my Github!
 <img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>
 
 
-
 <div align='center'>
     <h3>
         GitHub Profile Summary Cards
@@ -66,12 +75,5 @@ Thank you for visiting my Github!
 </div>
 
 
-
-
-<!--
-**Personelly I Like..🎼**
-- Listen to Band Music (*[LUCY](https://www.youtube.com/channel/UCnXwXrQ8KIBoV8k1T3xGznw), [Official Hige Dandism](https://www.youtube.com/@officialhigedandism), and [Ha Hyun-sang](https://www.youtube.com/@HyunSangHA_OFFICIAL)*)
-- Read Books
-- Iced Americano (everyday)..
 
 -->
