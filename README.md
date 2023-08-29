@@ -2,7 +2,7 @@
 
 
 - 🧐 I'm currently working at [LI LAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
-- 🌱 I'm interested in Language modeling and representation learning for document-level tasks and long sequences (such as long document (or book) summarization, story generation, extending new tasks).
+- 🌱 I'm interested in language modeling and representation learning for document-level tasks and long sequences (such as long document (or book) summarization, story generation, extending new tasks).
 - Also interested in prompting and in-context learning (ICL) with (large) language models.
 - Email: eunchan789@gmail.com
 - If you have any questions, feel free to contact me! 
