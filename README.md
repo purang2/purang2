@@ -6,7 +6,6 @@
 - Also interested in prompting and in-context learning (ICL) with (large) language models.
 - Email: eunchan789@gmail.com
 - If you have any questions, feel free to contact me! 
-
 - **Experiences**
   - **[💚SKT AI Fellowship](https://www.sktuniv.com/74fb66b5-c7a7-4da2-82b8-3d0519e18e6d), Vision-Language AI Research (2022.06 ~ 2022.11)**
 
