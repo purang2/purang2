@@ -1,4 +1,4 @@
-### Hi there, I'm Eunchan Lee 👋
+### Hello! I'm Eunchan Lee 👋
 
 
 - 🧐 I'm currently working at [LI LAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
