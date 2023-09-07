@@ -1,7 +1,7 @@
 ### Hello! I'm Eunchan Lee 👋
 
 
-- 🧐 I'm currently working at [LI LAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
+- 🧐 I'm currently working for [LI LAB](https://sites.google.com/view/language-intelligence-lab) in UNIST.
 - 🌱 I'm interested in language modeling and representation learning for document-level tasks and long sequences (such as long document (or book) summarization, story generation, extending new tasks).
 - Also interested in prompting and in-context learning (ICL) with (large) language models.
 - **Work Experience**
