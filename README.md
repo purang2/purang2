@@ -4,8 +4,9 @@
 - 🧐 I'm currently working for **[@Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab) in UNIST**.
 - 🌱 I'm interested in **language modeling** and **representation learning for document-level tasks and long sequences** (such as **long document (or book) summarization, story (or question) generation, extending new tasks**).
 - Also interested in **prompting and in-context learning (ICL) with (large) language models**.
-- **Work Experience**
+- **Experiences**
   - **[💚SKT AI Fellowship](https://www.sktuniv.com/74fb66b5-c7a7-4da2-82b8-3d0519e18e6d), Vision-Language AI Research (2022.06 ~ 2022.11)**
+  - **[Qiskit ]
 - Email: eunchan789@gmail.com
 - If you have any questions, feel free to contact me! 
 
