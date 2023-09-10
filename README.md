@@ -5,9 +5,10 @@
 - 🌱 I'm interested in **language modeling** and **representation learning for document-level tasks and long sequences** (such as **long document (or book) summarization, story (or question) generation, extending new tasks**).
 - Also interested in **prompting and in-context learning (ICL) with (large) language models**.
 - **Special Experiences**
-  - **[💚SKT AI Fellowship](https://www.sktuniv.com/74fb66b5-c7a7-4da2-82b8-3d0519e18e6d), Vision-Language AI Research (2022.06 ~ 2022.11)**
-  - **[🤍Qiskit Hackathon Korea 2021](https://www.hackerearth.com/challenges/hackathon/qiskit-hackathon-korea/), Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit, 🏆Community Choice Award (2021.02)**
-  - **🤎[COLING'22](https://coling2022.org/) Student Volunteer Staff**
+  - **[🟢SKT AI Fellowship](https://www.sktuniv.com/74fb66b5-c7a7-4da2-82b8-3d0519e18e6d), Vision-Language AI Research (2022.06 ~ 2022.11)**
+  - **[🔵The 4th Korean Emotion Recognition AI International Challenge, 2022](https://sites.google.com/view/kerc2022/poster-of-kerc2022?authuser=0), A BERT-based approach to understanding the dialog of characters in K-Drama. (2022.10)**
+  - **[⚪Qiskit Hackathon Korea 2021](https://www.hackerearth.com/challenges/hackathon/qiskit-hackathon-korea/), Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit, 🏆Community Choice Award (2021.02)**
+  - **[🟡COLING'22](https://coling2022.org/) Student Volunteer Staff**
 - Email: eunchan789@gmail.com
 - If you have any questions, feel free to contact me! 
 
