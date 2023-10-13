@@ -1,7 +1,7 @@
 ### Hello! I'm Eunchan Lee 👋
 
 
-- 🧐 I'm currently working for **[@Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab) in UNIST**.
+- 🧐 I'm currently working **[@Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab) in UNIST**.
 - 🌱 I'm interested in **language modeling** and **representation learning for document-level tasks and long sequences** (such as **long document (or book) summarization, story (or question) generation, extending new tasks**).
 - Also interested in **prompting and in-context learning (ICL) with (large) language models**.
 - **🟩More information about me (CV): [[Click here]](https://github.com/purang2/purang2/blob/main/cv%20(8).pdf)**
