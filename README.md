@@ -4,7 +4,7 @@
 - 🧐 I'm currently working **[@Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab) in UNIST**.
 - 🌱 I'm interested in *****Natural Language Processing*****, specifically ***language modeling*** and ***representation learning for document-level tasks and long text sequences*** (such as **document or book summarization, story generation, extending new tasks**). Also interested in **prompting and in-context learning (ICL) with (large) language models**.
 - **🟩More information about me (CV): [[Click here]](https://github.com/purang2/purang2/blob/main/cv%20(8).pdf)**
-- Email: eunchan789@gmail.com
+- Email: purang2@unist.ac.kr
 - If you have any questions, feel free to contact me! 
 
 Thank you for visiting my Github!
