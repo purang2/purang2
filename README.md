@@ -4,7 +4,8 @@
 - 🧐 I'm currently working **[@Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab) in UNIST**.
 - 🌱 I'm interested in *****Natural Language Processing*****,
   - ***Language modeling***
-  - ***Representation learning for document-level tasks and long text sequences*** (such as **document or book summarization, story generation, extending new tasks**).
+  - ***Representation learning for document-level tasks and long text sequences***
+    - Book or paper summarization, story generation, extending new tasks.
   - ***Prompting and in-context learning with (large) language models***.
 
 
