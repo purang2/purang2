@@ -12,7 +12,7 @@
   - ***B.S.& M.S. at Kyungpook National University, School of Electronic Engineering (KNUSEE)*** 
   - ***Ph.D Course at Ulsan National Institute of Science and Technology, AI Graduate School (UNIST AIGS)***
   - ***AI&NLP Researcher at SK Telecom (SKT AI Fellowship / 4th, 2022)***
-<!--  - ***CV: [[Click here]](https://github.com/purang2/purang2/blob/main/cv%20(8).pdf)***-->
+- ***CV: [[Click here]](https://github.com/purang2/purang2/blob/main/cv%20(8).pdf)***
 
 Thank you for visiting my Github! If you have any questions, feel free to contact me! ☺
               
