@@ -1,14 +1,14 @@
 
 ### About Me 
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 🌱
-- I'm styding Natural Language Processing, Language AI.
+- I'm studying natural language processing, language AI.
 
 ### I'm interested in
 <img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
-<img src="https://img.shields.io/badge/Long_Document/Book related Task-1877F2?style=flat"/>
+<img src="https://img.shields.io/badge/Long_Document/Book Summarization-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/LLMs-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Story Generation-20C997?style=flat"/>
-<img src="https://img.shields.io/badge/Chatbot System-E02826?style=flat"/>
+<img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
 
 
 ### More Information
