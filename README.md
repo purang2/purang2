@@ -13,12 +13,14 @@
 
 
 ### More Information
-<a href="https://supurang.github.io/portfolio/" ><img src="https://img.shields.io/badge/Portfolio (click)-39477F?style=flat&logo=AngelList&logoColor=white"/></a>
-<a href="https://github.com/purang2/purang2/blob/main/cv%20(8).pdf" ><img src="https://img.shields.io/badge/CV (click)-39477F?style=flat&logo=AngelList&logoColor=white"/></a>
+
 <a href="https://scholar.google.com/citations?user=stfV6M8AAAAJ" ><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+<a href="https://huggingface.co/UNIST-Eunchan" ><img src="https://img.shields.io/badge/HuggingFace-FFCD00?style=flat&logo=hexo&logoColor=white"/></a>
+
+<a href="https://supurang.github.io/portfolio/" ><img src="https://img.shields.io/badge/Portfolio-39477F?style=flat&logo=AngelList&logoColor=white"/></a>
+<a href="https://github.com/purang2/purang2/blob/main/cv%20(8).pdf" ><img src="https://img.shields.io/badge/CV-39477F?style=flat&logo=AngelList&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/eunchan-lee-a21953209/" ><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://huggingface.co/UNIST-Eunchan" ><img src="https://img.shields.io/badge/HuggingFace-FFCD00?style=flat&logo=hexo&logoColor=white"/></a>
 <a href="https://twitter.com/eunchan789" ><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
