@@ -1,4 +1,3 @@
-<!--
 ### About Me 
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 🌱
 - I'm studying natural language processing, language AI.
@@ -6,6 +5,7 @@
 ### I'm interested in
 <img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/Long_Document/Book Summarization-1877F2?style=flat"/>
+<img src="https://img.shields.io/badge/NLU-FFCD00?style=flat"/>
 <img src="https://img.shields.io/badge/LLMs-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Story Generation-20C997?style=flat"/>
 <img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
@@ -20,7 +20,6 @@
 <a href="https://www.linkedin.com/in/eunchan-lee-a21953209/" ><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://twitter.com/eunchan789" ><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
--->
 
 <!--
 ### Hello! I'm Eunchan Lee 👋
