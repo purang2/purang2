@@ -1,6 +1,7 @@
-### About Me 
-- I'm a first-year PhD student at UNIST Language & Intelligence Lab. 🌱
-- I'm studying natural language processing, language AI.
+### About Me 🌱
+- I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
+- I'm studying natural language processing (NLP), language AI.
+- 😁Please check my portfolio here: https://supurang.github.io/portfolio/
 
 ### I'm interested in
 <img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
