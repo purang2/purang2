@@ -4,9 +4,9 @@
 - 😁Please check my portfolio here: https://supurang.github.io/portfolio/
 
 ### I'm interested in
-<img src="https://img.shields.io/badge/Machine Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing-39477F?style=flat"/>
-<img src="https://img.shields.io/badge/Long_Document/Book Summarization-1877F2?style=flat"/>
-<img src="https://img.shields.io/badge/NLU-FFCD00?style=flat"/>
+<img src="https://img.shields.io/badge/Deep Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing(NLP)-39477F?style=flat"/>
+<img src="https://img.shields.io/badge/Game AI-1D9BF0?style=flat"/>
+<img src="https://img.shields.io/badge/Long_Document/Book NLP-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/LLMs-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Story Generation-20C997?style=flat"/>
 <img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
