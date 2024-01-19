@@ -5,13 +5,12 @@
 
 ### I'm interested in
 
-<img src="https://img.shields.io/badge/About USER FRIENDLY-CF6655?style=flat"/>
-<img src="https://img.shields.io/badge/Deep Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing(NLP)-FF9797?style=flat"/>
+<img src="https://img.shields.io/badge/About USER FRIENDLY-CF6655?style=flat"/> <img src="https://img.shields.io/badge/Deep Learning-1877F2?style=flat"/> <img src="https://img.shields.io/badge/Natural Language Processing(NLP)-FF9797?style=flat"/>
 <img src="https://img.shields.io/badge/Game AI-B9BFFF?style=flat"/>
 <img src="https://img.shields.io/badge/Long_Document/Book NLP-F8D373?style=flat"/>
 <img src="https://img.shields.io/badge/LLMs-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/Story Generation-20C997?style=flat"/>
-<img src="https://img.shields.io/badge/Chatbot-E02826?style=flat"/>
+<img src="https://img.shields.io/badge/Chatbot-6667AB?style=flat"/>
 
 
 ### More Information
