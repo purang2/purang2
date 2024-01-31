@@ -1,4 +1,4 @@
-### About Me 🌱
+<!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
 - I'm studying natural language processing (NLP), language AI.
 - 😁Please check my portfolio here: https://supurang.github.io/portfolio/
@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/eunchan-lee-a21953209/" ><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://twitter.com/eunchan789" ><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003388221714" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+-->
 <!--
 ### Hello! I'm Eunchan Lee 👋
 <a href="https://velog.io/@purang2" ><img src="https://img.shields.io/badge/Tech Blog-BBE2BB?style=flat&logo=Velog&logoColor=white"/></a>
