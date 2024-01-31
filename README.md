@@ -15,7 +15,6 @@
 
 ### More Information
 
-<a href="https://velog.io/@purang2" ><img src="https://img.shields.io/badge/Tech Blog-BBE2BB?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=stfV6M8AAAAJ" ><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
 <a href="https://huggingface.co/UNIST-Eunchan" ><img src="https://img.shields.io/badge/HuggingFace-FFCD00?style=flat&logo=hexo&logoColor=white"/></a>
 <a href="https://supurang.github.io/portfolio/" ><img src="https://img.shields.io/badge/Portfolio-39477F?style=flat&logo=AngelList&logoColor=white"/></a>
@@ -26,6 +25,7 @@
 
 <!--
 ### Hello! I'm Eunchan Lee 👋
+<a href="https://velog.io/@purang2" ><img src="https://img.shields.io/badge/Tech Blog-BBE2BB?style=flat&logo=Velog&logoColor=white"/></a>
 
 
 - 🧐 I'm currently working **[@Language & Intelligence Lab](https://sites.google.com/view/language-intelligence-lab) in UNIST**.
