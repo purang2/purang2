@@ -1,8 +1,12 @@
 ### I'm Eunchan 👋
 
-### (new!)🤱 This is my new fun page~ please visit! 
+### [new!]🤱 
 
-### https://purang2.oopy.io/
+These days, I've been trying to channel my surplus energy into something more productive,
+
+and as one of them, I'm working on a new project (website) for myself, so stay tuned for more details and please take a look at it~🙂!
+
+> https://purang2.oopy.io/
 
 <!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
