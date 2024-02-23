@@ -1,4 +1,4 @@
-### I'm Eunchan Lee 👋
+### I'm Eunchan 👋
 
 <!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
