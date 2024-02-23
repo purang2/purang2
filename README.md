@@ -12,6 +12,8 @@ And also, this is
 **⬇ Blog I'm running⬇**
 > ***https://james-eunchan.tistory.com/***
 
+### please visit~!🙂
+
 
 <!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
