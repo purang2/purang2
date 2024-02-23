@@ -1,6 +1,4 @@
-### Hi there, this is Eunchan👋
-
-### ***[※ new!]🤱*** 
+### 👋 ***[※ new update🤱]*** 
 
 These days, I've been trying to channel my surplus energy into something more productive,
 
@@ -8,6 +6,12 @@ and as one of them, I'm working on a new project (website) for myself, so stay t
 
 **⬇ Wiki about Me⬇**
 > ***https://purang2.oopy.io/***
+
+And also, this is 
+
+**⬇ Blog I'm running⬇**
+> ***https://james-eunchan.tistory.com/***
+
 
 <!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
