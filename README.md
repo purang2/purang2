@@ -1,5 +1,4 @@
-### About Me 🌱
-https://purang2.oopy.io/
+### I'm Eunchan Lee 👋
 
 <!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
