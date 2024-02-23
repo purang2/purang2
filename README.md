@@ -1,4 +1,4 @@
-### 👋 ***[※ new update🤱]*** 
+<!--### 👋 ***[※ new update🤱]*** 
 
 These days, I've been trying to channel my surplus energy into something more productive,
 
@@ -13,7 +13,7 @@ And also, this is
 > ***https://james-eunchan.tistory.com/***
 
 ### please visit~!🙂
-
+-->
 
 <!-- ### About Me 🌱
 - I'm a first-year PhD student at UNIST Language & Intelligence Lab. 
