@@ -1,3 +1,8 @@
+### I'm Interested in
+- Machine Learning Systems Design for better User Interaction/User Experience!
+- Language Intelligence AI (NLP)
+
+
 <!--### 👋 ***[※ new update🤱]*** 
 
 These days, I've been trying to channel my surplus energy into something more productive,
