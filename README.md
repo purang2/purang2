@@ -1,6 +1,6 @@
 ### I'm Interested in
-- Machine Learning Systems Design for better User Experience.
-- Language Intelligence AI (NLP).
+- Machine Learning Systems/Services Design for better User Experience.
+- Creative Language Intelligence AI (Natural Language Generation).
 
 
 <!--### 👋 ***[※ new update🤱]*** 
