@@ -1,7 +1,6 @@
-### I'm Interested in
-- Machine Learning Systems/Services Design for better User Experience.
-- Creative Language Intelligence AI (Natural Language Generation).
-
+### 👋 반갑습니다!
+- 유저 경험를 위한 머신러닝 시스템과 서비스 디자인에 관심을 두고 있습니다.
+- 그리고 창의적인 언어지능 AI 기반 기술에 관심이 있습니다. 
 
 <!--### 👋 ***[※ new update🤱]*** 
 
