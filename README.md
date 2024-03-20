@@ -1,41 +1,21 @@
 <div align='center'>
 
-### 👋 반갑습니다! 
+### 👋 반갑습니다! (Hello!)
 ***UNIST***에서 AI 언어지능을 연구하고 있습니다.   
 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄  
 ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 
-
-### 👋 Hello World!
 I'm researching AI language intelligence at ***UNIST***!  
 I'm also interested in machine learning system design and service design.  
 I am personally working on a number of interesting projects that use AI technology to change our daily lives in small ways. 😄  
-***I also have minor interests in ***HCI, Design, UX*** to pursue "AI to Everywhere, for Everyone"***.
+I also have minor interests in ***HCI, Design, UX*** to pursue ***"AI to Everywhere, for Everyone"***.
 </div>
 
 <div align='center'>
-    <b>
-        💿GitHub Profile Summary Cards
-    </b>
-</div>
 
-<div align='center'>
-  
-![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
-![w](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=purang2&theme=algolia)
-![w](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=purang2&theme=algolia)
-![w](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=purang2&theme=algolia)
-![w](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=purang2&theme=algolia&utcOffset=8)
-
-![dev3](https://github.com/purang2/purang2/assets/46081500/1504f7a4-60fe-4627-8117-ea8f5d150b69)
-
-</div>
-
-
-<div align='center'>
-
-**👨‍💻 Career & Experiences**
+--- 
+### 👨‍💻 Career & Experiences
 
 <a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
 <a href="https://www.sktuniv.com/" ><img src="https://img.shields.io/badge/SKT AI Fellowship, 4th-ED1324?style=flat"/></a>
@@ -51,8 +31,30 @@ I am personally working on a number of interesting projects that use AI technolo
 <img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>
 
+</div>
+
+
+--- 
+<div align='center'>
+    <h3>
+        GitHub Profile Summary Cards
+    </h3>
+</div>
+
+<div align='center'>
+  
+![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=purang2&theme=algolia)
+![w](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=purang2&theme=algolia&utcOffset=8)
+
+![dev3](https://github.com/purang2/purang2/assets/46081500/1504f7a4-60fe-4627-8117-ea8f5d150b69)
 
 </div>
+
+
+
 
 <!--### 👋 ***[※ new update🤱]*** 
 
