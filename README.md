@@ -20,7 +20,7 @@ I also have minor interests in ***HCI, Design, UX*** to pursue ***"AI to Everywh
 <a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
 <a href="https://www.sktuniv.com/" ><img src="https://img.shields.io/badge/SKT AI Fellowship, 4th-ED1324?style=flat"/></a>
 <a href="https://coling2022.org/cfv" ><img src="https://img.shields.io/badge/COLING22 (Int. NLP Conference), Local (Gyeongju) Student Volunteers-000000?style=flat"/></a>
-
+<a href="https://github.com/qiskit-community/quantum-hackathon-korea-21?tab=readme-ov-file" ><img src="https://img.shields.io/badge/2021 Qiskit Hackathon Korea ㅡ Project: Quantum Neural Network-CF6655?style=flat"/>    
 <a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab (MS)-005F92?style=flat"/></a>
 <a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 
