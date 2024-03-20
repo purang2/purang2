@@ -1,20 +1,23 @@
 <div align='center'>
 
-### 👋 반갑습니다!
-***UNIST***에서 AI 언어지능을 연구하고 있습니다. 머신러닝 시스템 디자인, 서비스 디자인에 관심을 두고 있습니다. AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄 ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
-   
-### 👋 반갑습니다!
-- ***UNIST***에서 AI 언어지능을 연구하고 있습니다.
-- 머신러닝 시스템 디자인, 서비스 디자인에 관심을 두고 있습니다. 
-- AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄
-- ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
+### 👋 반갑습니다! 
+***UNIST***에서 AI 언어지능을 연구하고 있습니다.   
+머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
+AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄  
+***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 
+
+### 👋 Hello World!
+I'm researching AI language intelligence at ***UNIST***!  
+I'm also interested in machine learning system design and service design.  
+I am personally working on a number of interesting projects that use AI technology to change our daily lives in small ways. 😄  
+***I also have minor interests in ***HCI, Design, UX*** to pursue "AI to Everywhere, for Everyone"***.
 </div>
 
 <div align='center'>
-    <h3>
-        GitHub Profile Summary Cards
-    </h3>
+    <b>
+        💿GitHub Profile Summary Cards
+    </b>
 </div>
 
 <div align='center'>
