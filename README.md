@@ -1,9 +1,15 @@
+<div align='center'>
+
+### 👋 반갑습니다!
+***UNIST***에서 AI 언어지능을 연구하고 있습니다. 머신러닝 시스템 디자인, 서비스 디자인에 관심을 두고 있습니다. AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄 ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
+   
 ### 👋 반갑습니다!
 - ***UNIST***에서 AI 언어지능을 연구하고 있습니다.
 - 머신러닝 시스템 디자인, 서비스 디자인에 관심을 두고 있습니다. 
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 
+</div>
 
 <div align='center'>
     <h3>
@@ -24,6 +30,7 @@
 </div>
 
 
+<div align='center'>
 
 **👨‍💻 Career & Experiences**
 
@@ -41,6 +48,8 @@
 <img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>
 
+
+</div>
 
 <!--### 👋 ***[※ new update🤱]*** 
 
