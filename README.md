@@ -1,3 +1,4 @@
+<!--
 <div align='center'>
 
 ### 👋 Hello! 
@@ -11,7 +12,7 @@ I also have minor interests in ***HCI, Design, UX*** to pursue ***"AI to Everywh
 AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄  
 ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 
-</div>
+</div>-->
 
 <div align='center'>
 
@@ -27,10 +28,10 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 
 **🎼Personelly I Like..**
 
-<a href="https://www.youtube.com/watch?v=5xkD13Rk7EE"><img src="https://img.shields.io/badge/🎧Listen to Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/></a> <img src="https://img.shields.io/badge/📚Book-39477F?style=flat"/>
+<a href="https://www.youtube.com/watch?v=5xkD13Rk7EE"><img src="https://img.shields.io/badge/🎧Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/></a> <img src="https://img.shields.io/badge/📚Book-39477F?style=flat"/>
 <img src="https://img.shields.io/badge/🧉Iced Americano (-->everyday)-1877F2?style=flat"/>
 <img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/>
-<img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>
+<!--<img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>-->
 
 </div>
 
