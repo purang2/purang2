@@ -129,11 +129,6 @@ And also, this is
 - ***CV: [[Click here]](https://github.com/purang2/purang2/blob/main/cv%20(8).pdf)***
 
 
-**🎼Personelly I Like..**
-
-<a href="https://www.youtube.com/watch?v=5xkD13Rk7EE"><img src="https://img.shields.io/badge/🎧Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/></a> <img src="https://img.shields.io/badge/📚Book-39477F?style=flat"/>
-<img src="https://img.shields.io/badge/🧉Iced Americano (-->everyday)-1877F2?style=flat"/> <img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/><img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>Thank you for visiting my Github! If you have any questions, feel free to contact me! ☺
-              -->
 
 
 <!--
