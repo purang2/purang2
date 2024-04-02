@@ -47,13 +47,10 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 
 
 --- 
-<div align='center'>
-    <h3>
-        GitHub Profile Summary Cards
-    </h3>
-</div>
 
-<div align='center'>
+**GitHub Profile Summary Cards**
+
+
   
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=purang2&theme=algolia)
@@ -61,9 +58,6 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=purang2&theme=algolia)
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=purang2&theme=algolia&utcOffset=8)
 
-![dev3](https://github.com/purang2/purang2/assets/46081500/1504f7a4-60fe-4627-8117-ea8f5d150b69)
-
-</div>
 
 
 
