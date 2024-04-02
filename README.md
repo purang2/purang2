@@ -14,10 +14,27 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 
 </div>-->
 
-<div align='center'>
 
---- 
-### 👨‍💻 Career & Experiences
+### 👋 Hello! I'm purang2
+---
+
+**🤔 Research interests**
+
+- Natural Language Processing (e.g. Book summarization, Lyrics translation)
+- Large Language Models
+- Conversation AI
+
+**🥳 Hobbies**
+
+- Sing and listen band music
+- Reading books
+
+**🤗 Huggingface** 
+
+Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan)
+
+
+**👨‍💻 Career & Experiences**
 
 <a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
 <a href="https://www.sktuniv.com/" ><img src="https://img.shields.io/badge/SKT AI Fellowship, 4th-ED1324?style=flat"/></a>
@@ -26,14 +43,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 <a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab (MS)-005F92?style=flat"/></a>
 <a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 
-**🎼Personelly I Like..**
 
-<a href="https://www.youtube.com/watch?v=5xkD13Rk7EE"><img src="https://img.shields.io/badge/🎧Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/></a> <img src="https://img.shields.io/badge/📚Book-39477F?style=flat"/>
-<img src="https://img.shields.io/badge/🧉Iced Americano (-->everyday)-1877F2?style=flat"/>
-<img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/>
-<!--<img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>-->
-
-</div>
 
 
 --- 
@@ -118,9 +128,12 @@ And also, this is
   - ***AI&NLP Researcher at SK Telecom (SKT AI Fellowship / 4th, 2022)***
 - ***CV: [[Click here]](https://github.com/purang2/purang2/blob/main/cv%20(8).pdf)***
 
-Thank you for visiting my Github! If you have any questions, feel free to contact me! ☺
-              
--->
+
+**🎼Personelly I Like..**
+
+<a href="https://www.youtube.com/watch?v=5xkD13Rk7EE"><img src="https://img.shields.io/badge/🎧Band Music (Ha Hyun Sang, LUCY, NFlying, Official Hige Dandism)-20C997?style=flat"/></a> <img src="https://img.shields.io/badge/📚Book-39477F?style=flat"/>
+<img src="https://img.shields.io/badge/🧉Iced Americano (-->everyday)-1877F2?style=flat"/> <img src="https://img.shields.io/badge/🎤Singing-39477F?style=flat"/><img src="https://img.shields.io/badge/⚽Football-39477F?style=flat"/>Thank you for visiting my Github! If you have any questions, feel free to contact me! ☺
+              -->
 
 
 <!--
