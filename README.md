@@ -23,6 +23,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 - Interactive AI
 - Natural Language Processing (e.g. Book summarization, Lyrics translation)
 - Large Language Models
+- Prompt Engineering ***(I think it's very interesting topic.. 🙂)***
 
 **🥳 Hobbies**
 
