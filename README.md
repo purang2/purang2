@@ -25,7 +25,13 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/purang2?pet-id=1" width="1000" height="120"/>
 </a>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/purang2"
+  width="600"
+  height="300"
+/>
+</a>
 
 --- 
 
