@@ -66,6 +66,14 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 />
 </a>
 
+**👨‍💻 Career & Experience**
+
+<a href="https://sites.google.com/view/language-intelligence-lab/home?authuser=0" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School, Language & Intelligence Lab-1877F2?style=flat"/></a>
+<a href="https://www.sktuniv.com/" ><img src="https://img.shields.io/badge/SKT AI Fellowship 2022-ED1324?style=flat"/></a>
+<a href="https://coling2022.org/cfv" ><img src="https://img.shields.io/badge/COLING22 Student Volunteers-000000?style=flat"/></a>
+
+<a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab (MS)-005F92?style=flat"/></a>
+<a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 
 
 <!--### 👋 ***[※ new update🤱]*** 
