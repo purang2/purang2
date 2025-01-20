@@ -15,13 +15,14 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 </div>-->
 
 
-### Hello! I'm purang2 👋  
-저는 언어지능 AI를 주로 연구하고 있습니다. 🙂  
-머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
-AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄  
-***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
+### Eunchan Lee
+---
+- 인공지능 연구원 이은찬입니다. 언어지능 AI를 주로 연구하고 있습니다. 🙂  
+- 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
+- AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
+***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 관심이 있습니다.
 
-**🌱 Research interests**
+**■ Research interests**
 
 - Interactive AI
 - Natural Language Processing (e.g. Book summarization, Lyrics translation)
@@ -29,12 +30,12 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 - Prompt Engineering ***(I think it's very interesting topic.. 🙂)***
 - Design & UX
 
-**🥳 Hobbies**
+**■ Hobbies**
 
 - Sing and listen band music
 - Reading books
 
-**🤗 Huggingface** 
+**■ Huggingface** 
 
 Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan)
 
@@ -49,7 +50,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 <a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 -->
 
-
+<!--
 **GitHub Profile Summary Cards**
   
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
@@ -65,7 +66,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
   height="300"
 />
 </a>
-
+-->
 <!--
 **👨‍💻 Career & Experience**
 
