@@ -56,7 +56,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 
 
 <br>
-<h3 align='center'>📑🕵️‍♂️ Publications </h3>
+<h3 align='center'>📑🕵️‍♂️ Publication </h3>
 
    |  Date   |               Name               |  Journal or Conference   |               Keywords              |                                               Authors                                                |
 | :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
