@@ -15,11 +15,11 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 </div>-->
 
 
-### Eunchan Lee
-- 인공지능 연구원입니다. 초거대 언어 모델, 대화형 AI 시스템 등을 주로 연구하고 있습니다.  
+### 👋반갑습니다!
+- AI 언어지능을 연구하고 있습니다. 초거대 언어 모델, 대화형 AI 시스템 등을 주로 연구하고 있습니다.  
 - 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
-***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 관심이 있습니다.
+- ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 
 **■ Research interests**
 
@@ -45,6 +45,14 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
  </a>
 </div>
 
+**👨‍💻 Career & Experiences**
+
+<a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
+<a href="https://www.sktuniv.com/" ><img src="https://img.shields.io/badge/SKT AI Fellowship, 4th-ED1324?style=flat"/></a>
+<a href="https://coling2022.org/cfv" ><img src="https://img.shields.io/badge/COLING22 Student Volunteers-000000?style=flat"/></a>
+<a href="https://github.com/qiskit-community/quantum-hackathon-korea-21?tab=readme-ov-file" ><img src="https://img.shields.io/badge/2021 Qiskit Hackathon Korea ㅡ Project: Quantum Neural Network-CF6655?style=flat"/>    
+<a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab-005F92?style=flat"/></a>
+<a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 
 <!--
 **👨‍💻 Career & Experiences**
