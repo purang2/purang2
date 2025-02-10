@@ -38,6 +38,14 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 
 Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan)
 
+
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=purang2&langs_count=8&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,purang2.github.io" />
+ </a>
+</div>
+
+
 <!--
 **👨‍💻 Career & Experiences**
 
