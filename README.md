@@ -62,6 +62,9 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 
   
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
+
+
+<!--
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=purang2&theme=algolia)
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=purang2&theme=algolia)
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=purang2&theme=algolia)
@@ -98,7 +101,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
 | Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
-
+-->
 
 
 <!--
