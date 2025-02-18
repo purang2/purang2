@@ -31,6 +31,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 - Large Language Models
 - Prompt Engineering ***(I think it's very interesting topic.. 🙂)***
 - Design & UX
+- **[💘new]** No-Code Tools ***(e.g. Bubble.io, Zapier)***
 
 **🥳 Hobbies**
 
