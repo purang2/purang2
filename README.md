@@ -13,7 +13,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 
 </div>-->
-<img src="KakaoTalk_20250210_141630829.jpg" width="200" height="200"/>
+<!--<img src="KakaoTalk_20250210_141630829.jpg" width="200" height="200"/>-->
 
 
 ### Hello! I'm purang2 👋  
