@@ -44,7 +44,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 
 **📚 Technical Blog**
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/purang2)
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/purang2)](https://velog.io/@purang2/posts)
 
 </div>
 
