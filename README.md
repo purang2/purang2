@@ -18,6 +18,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 
 ### Hello! I'm purang2 👋  
 ---
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/purang2)](https://velog.io/@purang2/posts)
 - AI 언어지능을 연구하고 있습니다. 초거대 언어 모델, 대화형 AI 시스템 등을 주로 연구하고 있습니다.  
 - 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
@@ -42,9 +43,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 
 Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan)
 
-**📚 Technical Blog**
 
-[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/purang2)](https://velog.io/@purang2/posts)
 
 </div>
 
