@@ -41,9 +41,10 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 
 Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan)
 
+<!--
 **📚 Technical Blog**
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/purang2)](https://velog.io/@purang2/posts)
-</div>
+</div>-->
 
 
 **👨‍💻 Career & Experiences**
