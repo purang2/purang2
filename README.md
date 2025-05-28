@@ -21,7 +21,7 @@
 **🥳 Hobbies**
 
 - Sing and listen band music
-- Reading books
+- Reading (books)
 
 **🤗 Huggingface** 
 
