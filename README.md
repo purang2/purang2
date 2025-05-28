@@ -1,27 +1,14 @@
-<!--
-<div align='center'>
-
-### 👋 Hello! 
-I'm researching AI language intelligence at ***UNIST***!  
-I'm also interested in machine learning system design and service design.  
-I am personally working on a number of interesting projects that use AI technology to change our daily lives in small ways. 😄  
-I also have minor interests in ***HCI, Design, UX*** to pursue ***"AI to Everywhere, for Everyone"***.
-
-**👋(반갑습니다!)** ***UNIST***에서 AI 언어지능을 연구하고 있습니다.   
-머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
-AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄  
-***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
-
-</div>-->
-<!--<img src="KakaoTalk_20250210_141630829.jpg" width="200" height="200"/>-->
-
-
 ### 👋 반갑습니다!
 - AI 언어지능을 연구하고 있습니다.
 - 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
-
+  
+### 👋 Hello!
+- I'm Eunchan Lee who research AI Language Intelligence, with additional interests in Machine Learning Systems Design and Service Design.
+- I enjoy initiating personal projects that use AI technology to subtly enhance everyday life.
+- Driven by the vision "AI to Everywhere, for Everyone," I am also interested in Human-Computer Interaction (HCI), Design, and User Experience (UX).
+- Feel free to reach out via email at **eunchan789@gmail.com**— I'm always happy to connect and discuss ideas!
 
 **🌱 Research interests**
 
@@ -29,8 +16,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 - Natural Language Processing (e.g. Book summarization, Lyrics translation)
 - Large Language Models
 - Prompt Engineering ***(I think it's very interesting topic.. 🙂)***
-- Design & UX
-- **[💘new]** No-Code Tools ***(e.g. Bubble.io, Make.com, n8n, Zapier)***
+- No-Code Tools ***(e.g. Bubble.io, Make.com, n8n, Zapier)***
 
 **🥳 Hobbies**
 
@@ -56,9 +42,25 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 <a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab (MS)-005F92?style=flat"/></a>
 <a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
 
+<!--
+<div align='center'>
+
+### 👋 Hello! 
+I'm researching AI language intelligence at ***UNIST***!  
+I'm also interested in machine learning system design and service design.  
+I am personally working on a number of interesting projects that use AI technology to change our daily lives in small ways. 😄  
+I also have minor interests in ***HCI, Design, UX*** to pursue ***"AI to Everywhere, for Everyone"***.
+
+**👋(반갑습니다!)** ***UNIST***에서 AI 언어지능을 연구하고 있습니다.   
+머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
+AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 😄  
+***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
+
+</div>-->
+<!--<img src="KakaoTalk_20250210_141630829.jpg" width="200" height="200"/>-->
 
 
-
+<!--
 --- 
 
 **GitHub Profile Summary Cards**
@@ -66,7 +68,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 
   
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purang2&theme=algolia)
-
+-->
 
 <!--
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=purang2&theme=algolia)
@@ -75,7 +77,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 ![w](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=purang2&theme=algolia&utcOffset=8)
 -->
 
-
+<!--
 <br>
 <h3 align='center'>📑🕵️‍♂️ Publications </h3>
 
@@ -105,7 +107,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
 | Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
-
+-->
 
 
 <!--
