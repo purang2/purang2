@@ -15,7 +15,7 @@
 - ***Interactive AI***
 - ***Natural Language Processing (e.g. Book summarization, Lyrics translation)***
 - ***Large Language Models***
-- ***Prompt Engineering***
+- ***Agentic AI, Prompt Engineering***
 
 **🥳 Hobbies**
 
