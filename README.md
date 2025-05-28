@@ -6,7 +6,7 @@
 --> 
 
 ### 👋 Eunchan Lee
-- I'm interesed in ***Language Intelligence***, my interests also include ***Machine Learning Systems Design, Service Design***.
+- I'm interesed in ***AI-based Language Intelligence***, my interests also include ***Machine Learning Systems Design, Service Design***.
 - I enjoy initiating various intriguing personal projects that ***subtly enhance everyday life through AI***.
 - Driven by the vision ***"AI to Everywhere, for Everyone"***, I have additional interests in ***Human Computer Interaction(HCI), Design, and User Experience(UX)***.
 
