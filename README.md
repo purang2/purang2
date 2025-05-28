@@ -33,7 +33,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/purang2)](https://velog.io/@purang2/posts)
 </div>-->
 
-
+<!--
 **👨‍💻 Career & Experiences**
 
 <a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
@@ -42,7 +42,7 @@ Check out my demos on huggingface [purang2](https://huggingface.co/UNIST-Eunchan
 <a href="https://github.com/qiskit-community/quantum-hackathon-korea-21?tab=readme-ov-file" ><img src="https://img.shields.io/badge/2021 Qiskit Hackathon Korea ㅡ Project: Quantum Neural Network-CF6655?style=flat"/>    
 <a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab (MS)-005F92?style=flat"/></a>
 <a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
-
+-->
 <!--
 <div align='center'>
 
