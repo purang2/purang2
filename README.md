@@ -5,7 +5,7 @@
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 --> 
 
-### 👋 Hello!
+### 👋 Eunchan Lee
 - I research AI Language Intelligence.
 - My interests also include Machine Learning Systems Design and Service Design.
 - I enjoy initiating various intriguing personal projects that subtly enhance everyday life through AI.
