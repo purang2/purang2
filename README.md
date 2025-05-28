@@ -1,21 +1,22 @@
-### 👋 반갑습니다!
+<!-- ### 👋 반갑습니다!
 - AI 언어지능을 연구하고 있습니다.
 - 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
-  
+--> 
+
 ### 👋 Hello!
-- I research AI Language Intelligence, with additional interests in Machine Learning Systems Design and Service Design.
-- I enjoy initiating personal projects that use AI technology to subtly enhance everyday life.
-- Driven by the vision "AI to Everywhere, for Everyone," I am also interested in Human-Computer Interaction (HCI), Design, and User Experience (UX).
-- Feel free to reach out via email at **eunchan789@gmail.com**— I'm always happy to connect and discuss ideas!
+- I research AI Language Intelligence.
+- My interests also include Machine Learning Systems Design and Service Design.
+- I enjoy initiating various intriguing personal projects that subtly enhance everyday life through AI.
+- Driven by the vision "AI to Everywhere, for Everyone," I have additional interests in HCI, Design, and UX.
 
 **🌱 Research interests**
 
 - Interactive AI
 - Natural Language Processing (e.g. Book summarization, Lyrics translation)
 - Large Language Models
-- Prompt Engineering ***(I think it's very interesting topic.. 🙂)***
+- Prompt Engineering
 - No-Code Tools ***(e.g. Bubble.io, Make.com, n8n, Zapier)***
 
 **🥳 Hobbies**
