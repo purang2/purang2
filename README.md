@@ -5,9 +5,9 @@
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
 --> 
 
-### 👋 Hello! I'm Eunchan, specializing in Language AI Research
+### 👋 Hello! I'm Eunchan
 
-- I'm passionate about AI-based Language Intelligence, including Machine Learning System Design and Service Design.
+- I'm interested in AI-based Language Intelligence, including Machine Learning System Design and Service Design.
 - I love initiating intriguing personal projects aimed at subtly enhancing everyday life through AI.
 - Driven by the vision "AI Everywhere, for Everyone," I'm also deeply interested in Human-Computer Interaction (HCI), Design, and User Experience (UX).
 
