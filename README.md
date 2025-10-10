@@ -8,8 +8,8 @@
 ### 👋 Hello! I'm Eunchan
 
 - I'm interested in AI-based Language Intelligence, including Machine Learning System Design and Service Design.
-- I love initiating intriguing personal projects aimed at subtly enhancing everyday life through AI.
-- Driven by the vision "AI Everywhere, for Everyone," I'm also deeply interested in Human-Computer Interaction (HCI), Design, and User Experience (UX).
+- My work centers on creating practical AI projects that seamlessly improve daily experiences.
+- Driven by the vision "AI Everywhere, for Everyone," I'm also interested in Human-Computer Interaction (HCI), Design, and User Experience (UX).
 
 ### 🌱 Research Interests
 
