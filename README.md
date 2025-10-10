@@ -13,7 +13,7 @@
 
 ### 🌱 Research Interests
 
-- Interactive AI
+- Interactive AI (AI Service, Product)
 - Natural Language Processing (Book Summarization, Lyrics Translation)
 - Large Language Models
 - Agentic AI and Prompt Engineering
