@@ -1,9 +1,9 @@
-<!-- ### 👋 반갑습니다!
+ ### 👋 반갑습니다!
 - AI 언어지능을 연구하고 있습니다.
 - 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
---> 
+ 
 
 ### 👋 Hello! I'm Eunchan
 
@@ -24,6 +24,50 @@
 ### 🥳 Hobbies
 - 🎵 Singing and enjoying band music
 - 📚 Reading books
+
+
+<h3 align='center'>👨‍💻 Career & Experiences </h3>
+
+<a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
+<a href="https://www.sktuniv.com/" ><img src="https://img.shields.io/badge/SKT AI Fellowship, 4th-ED1324?style=flat"/></a>
+<a href="https://coling2022.org/cfv" ><img src="https://img.shields.io/badge/COLING22 Student Volunteers-000000?style=flat"/></a>
+<a href="https://github.com/qiskit-community/quantum-hackathon-korea-21?tab=readme-ov-file" ><img src="https://img.shields.io/badge/2021 Qiskit Hackathon Korea ㅡ Project: Quantum Neural Network-CF6655?style=flat"/>    
+<a href="https://knu-brainai.github.io/" ><img src="https://img.shields.io/badge/Kyungpook National University, Brain AI Lab-005F92?style=flat"/></a>
+<a href="https://see.knu.ac.kr/" ><img src="https://img.shields.io/badge/Kyungpook National University, School of Electronic Engineering (BS)-ED1324?style=flat"/></a>
+
+
+<br>
+<h3 align='center'>📑🕵️‍♂️ Publication </h3>
+
+   |  Date   |               Name               |  Journal or Conference   |               Keywords              |                                               Authors                                                |
+| :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| Nov. 2022 | Story to Art Generation using Finetuned Stable Diffusion | ***Korean Artificial Intelligence Associaion (KAIA 2022, Autumn), Domestic Conference*** | ***Text-to-Image Synthesis, Multi-modal, NLP, GPT*** | ***[Seunghoon Lee](https://github.com/16SeungHun), [Dongyeop Lee](https://github.com/edong6768), [Eunchan Lee (Me)](https://github.com/purang2)***|
+| Oct. 2022 | Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, Text&Image Multi-modal AI***| ***[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| Oct. 2022 | Improving Performance of Sentiment Classification using Korean Style Transfer based Data Augmentation  | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Sytle Transfer, Data Augmentation, BART***| ***[Eunwoo Go](https://github.com/eun-woo),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| Oct. 2022 | Generating Literature-Style Sentences based on Summarized Text | ***The 34th Annual Conference on Human & Cognitive Language Technology(HCLT 2022), Domestic Conference*** | ***NLP, Text Generation, Text Sytle Transfer, BART***| ***[Bugwang Choe](https://github.com/mecuryD),[Eunchan Lee (Me)](https://github.com/purang2), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)*** |
+| Aug. 2022 | Prompt-based In-Context Learning for Korean Question Answering | ***Korean Artificial Intelligence Associaion (KAIA 2022, Summer), Domestic Conference*** | ***NLP, Question Answering, Few-shot Learning, In-context Learning*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko),[Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
+| Apr. 2022 | [Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models](https://www.mdpi.com/2076-3417/12/9/4522) | ***International Journal, Applied Sciences (💎SCIE, IF=2.838)*** | ***NLP, BERT, Multi Class Text Classification*** | ***[Eunchan Lee (Me)](https://scholar.google.com/citations?user=stfV6M8AAAAJ&hl=ko), [Changhyeon Lee](https://github.com/2changhyeon), [Sangtae Ahn](https://scholar.google.co.kr/citations?user=F-LXQwcAAAAJ&hl=ko)***|
+</br>
+
+
+
+
+<br>
+<h3 align='center'>🏆👨‍🔬 Awards & AI Competitions </h3>
+
+|  Date   |               Name               |  Organizer   |               Related Task               |                                               Rank                                                |
+| :-----: | :------------------------------: | :----------: | :------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| Nov. 2022 | [The 4th Korean Emotion Recognition International Challenge, 2022](https://github.com/purang2/KERC-Challenge) | Chonnam National University | NLP, K-Drama Dialogue Analysis, Sentiment Analysis | 6 / 106 ***(🥉Awarded, Bronze Prize)*** |
+| Oct. 2022 | [SKT AI Fellowship, Multi-modal AI Tech Research](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchData=sam56903&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8) | SK Telecom | Image-Text Multimodal AI, Text-to-Image | ***(🥉Awarded, Encouraged Prize)***
+| May. 2022 | [Code Similarity Detection AI Competition](https://dacon.io/competitions/official/235900/overview/description) | Dacon | NLP, Code Similarity | 27 / 337 **(Top 8%)** |
+| Jan. 2022 | [Korean Sentence Pair Classification AI Competition](https://dacon.io/competitions/official/235875/overview/description) | Dacon | NLP, Natural Language Inference | 62 / 468 **(Top 12%)** |
+| Aug. 2021 | [Natural Language-based Climate Technology Information Classification AI Competition](https://dacon.io/competitions/official/235744/overview/description) | Dacon | NLP, Multi Class Text Classification | 71 / 258 **(Top 28%)** |
+| Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
+| Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
+</br>
+
+
+
 
 <!--
 **📚 Technical Blog**
