@@ -17,6 +17,7 @@
 - Natural Language Processing (Book Summarization, Lyrics Translation)
 - Large Language Models
 - Agentic AI and Prompt Engineering
+- Vision-Language AI Applications
 
 ### 🤗 Hugging Face
 - Explore my AI demos on [Hugging Face → purang2](https://huggingface.co/UNIST-Eunchan)
