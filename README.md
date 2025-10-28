@@ -13,11 +13,10 @@
 
 ### 🌱 Research Interests
 
-- Interactive AI (AI Service, Product)
+- Interactive AI
 - Natural Language Processing (Book Summarization, Lyrics Translation)
-- Large Language Models
-- Agentic AI and Prompt Engineering
-- Vision-Language AI Applications
+- LLMs (Agentic LLMs, Prompting, Training, Tuning, Evaluation)
+- Multimodal AI
 
 ### 🤗 Hugging Face
 - Explore my AI demos on [Hugging Face → purang2](https://huggingface.co/UNIST-Eunchan)
