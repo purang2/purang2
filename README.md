@@ -25,7 +25,7 @@
 - 🎵 Singing and enjoying band music
 - 📚 Reading books
 
-
+<!--
 <h3 align='center'>👨‍💻 Career & Experiences </h3>
 
 <a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
@@ -67,7 +67,7 @@
 | Feb. 2021 | [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) | IBM, Qiskit | Quantum Computing, Quantum Neural Network | ***(🏆Awarded, Community Choice Award)*** |
 | Nov. 2020 | Daegu&Gyeongbuk AI Programming Competition 2020 | Kyungpook National University | Machine Learning, Regression | ***(🥉Awarded, Encouraged Prize)***
 </br>
-
+-->
 
 
 
