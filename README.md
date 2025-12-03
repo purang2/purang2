@@ -1,15 +1,25 @@
- ### 👋 반갑습니다!
-- AI 언어지능을 연구하고 있습니다.
+- 👋 반갑습니다! AI 언어지능을 연구하고 있습니다.
 - 머신러닝 시스템 디자인, 서비스 디자인에도 관심을 두고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다. 
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.
  
+### ✌️ Experiences
 
-### 👋 Hello! I'm Eunchan
+#### [Company]
 
-- I'm interested in AI-based Language Intelligence, including Machine Learning System Design and Service Design.
-- My work centers on creating practical AI projects that seamlessly improve daily experiences.
-- Driven by the vision "AI Everywhere, for Everyone," I'm also interested in Human-Computer Interaction (HCI), Design, and User Experience (UX).
+- 2025.12 - (current) | AI Engineer, **Labrador Labs (Seoul)**
+- 2024.04 - 2025.11 | Senior AI R&D Researcher, **AI O2O Lab (KT pangyo)**
+
+#### [Lab (University)]
+
+- 2023.01 - 2024.04 | NLP Researcher (Ph.D. Course & Internship), **UNIST Language Intelligence Lab**, (Ulsan National Institute of Science and Technology, AI Graduate School)
+- 2020.08 - 2023.02 | NLP Researcher (M.S. Course & Internship), **KNU Brain AI Lab** (Kyungpook National University, School of Electronic Engineering)
+
+#### [Projects]
+
+- 2025.07 - 2025.10 | LLM Researcher, Tech for Impact 2th at **Kakao Impact**
+- 2025.03 - 2025.07 | Social Researcher, Loneliness Research Lab at **MODULABS**
+- 2022.05 - 2022.11  | AI Researcher, SKT AI Fellowship at **SK Telecom**
 
 ### 🌱 Research Interests
 
