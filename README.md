@@ -8,7 +8,7 @@ AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 �
 #### [Company]
 
 - 2025.12 - (current) | AI Engineer, **Labrador Labs (Seoul)**
-- 2024.04 - 2025.11 | Senior AI R&D Researcher, **AI O2O Lab (KT pangyo)**
+- 2024.04 - 2025.11 | Senior AI R&D Researcher, **AI O2O Lab (KT Pangyo)**
 
 #### [Lab (University)]
 
