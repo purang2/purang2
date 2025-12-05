@@ -14,7 +14,7 @@
 #### [Lab (University)]
 
 - 2023.01 - 2024.04 | NLP Researcher (Ph.D. Course & Internship), **UNIST Language Intelligence Lab**, (Ulsan National Institute of Science and Technology, AI Graduate School)
-- 2020.08 - 2023.02 | NLP Researcher (M.S. Course & Internship), **KNU Brain AI Lab** (Kyungpook National University, School of Electronic Engineering)
+- 2020.08 - 2023.02 | NLP Researcher (M.S. Course & Undergraduate Student), **KNU Brain AI Lab** (Kyungpook National University, School of Electronic Engineering)
 
 #### [Projects]
 
