@@ -1,5 +1,5 @@
 
-### Eunchan Lee 
+### [@purang2eunchan](http://linktr.ee/purang2eunchan) 
 - **👋 AI 언어지능을 연구하고 있습니다.**  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다.  
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.  
