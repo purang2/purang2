@@ -3,7 +3,8 @@
 - **👋 AI 언어지능을 연구하고 있습니다.**  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다.  
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.  
- 
+
+ <!--
 ### ✌️ Experience
 
 #### [Company]
@@ -21,7 +22,7 @@
 - 2025.07 - 2025.10 | LLM Researcher, Tech for Impact 2th at **Kakao Impact**
 - 2025.03 - 2025.07 | Social Researcher, Loneliness Research Lab at **MODULABS**
 - 2022.05 - 2022.11  | AI Researcher, SKT AI Fellowship at **SK Telecom**
-
+-->
 ### 🌱 Research Interests
 
 - Interactive AI
