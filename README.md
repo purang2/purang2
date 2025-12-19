@@ -23,6 +23,7 @@
 - 2025.03 - 2025.07 | Social Researcher, Loneliness Research Lab at **MODULABS**
 - 2022.05 - 2022.11  | AI Researcher, SKT AI Fellowship at **SK Telecom**
 -->
+
 ### 🌱 Research Interests
 
 - Interactive AI
@@ -33,11 +34,12 @@
 ### 🤗 Hugging Face
 - Explore my AI demos on [Hugging Face → purang2](https://huggingface.co/UNIST-Eunchan)
 
+<!--
+
 ### 🥳 Hobbies
 - 🎵 Singing and enjoying band music
 - 📚 Reading books
 
-<!--
 <h3 align='center'>👨‍💻 Career & Experiences </h3>
 
 <a href="https://aigs.unist.ac.kr/web/index.php" ><img src="https://img.shields.io/badge/UNIST, AI Graduate School-1877F2?style=flat"/></a>
