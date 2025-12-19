@@ -1,8 +1,17 @@
 
 ### [@purang2eunchan](http://linktr.ee/purang2eunchan) 
-- **👋 AI 언어지능을 연구하고 있습니다.**  
+- AI 언어 지능에 관해 연구하고 있습니다.  
 - AI 기술을 통해 소소하게 일상을 바꾸는 여러가지 흥미로운 프로젝트들을 개인적으로 기획하고 있습니다.  
 - ***"AI to Everywhere, for Everyone"*** 을 추구하기 위해 ***HCI, Design, UX***에도 소소하게 관심을 두고 있습니다.  
+
+### 🌱 Research Interests
+
+- Interactive AI
+- Natural Language Processing (Book Summarization, Lyrics Translation)
+- LLMs (Agentic LLMs, Prompting, Training, Tuning, Evaluation)
+
+### 🤗 Hugging Face
+- Explore my AI demos on [Hugging Face → purang2](https://huggingface.co/UNIST-Eunchan)
 
  <!--
 ### ✌️ Experience
@@ -24,15 +33,6 @@
 - 2022.05 - 2022.11  | AI Researcher, SKT AI Fellowship at **SK Telecom**
 -->
 
-### 🌱 Research Interests
-
-- Interactive AI
-- Natural Language Processing (Book Summarization, Lyrics Translation)
-- LLMs (Agentic LLMs, Prompting, Training, Tuning, Evaluation)
-- Multimodal AI
-
-### 🤗 Hugging Face
-- Explore my AI demos on [Hugging Face → purang2](https://huggingface.co/UNIST-Eunchan)
 
 <!--
 
