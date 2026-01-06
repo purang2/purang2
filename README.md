@@ -9,6 +9,7 @@
 - Interactive AI
 - Natural Language Processing (Book Summarization, Lyrics Translation)
 - LLMs (Agentic LLMs, Prompting, Training, Tuning, Evaluation)
+- AI Engineering (😇 먹고 살기 위해... | MLOps, LLMOps, Data/Infra/Security)
 
 ### 🤗 Hugging Face
 - Explore my AI demos on [Hugging Face → purang2](https://huggingface.co/UNIST-Eunchan)
